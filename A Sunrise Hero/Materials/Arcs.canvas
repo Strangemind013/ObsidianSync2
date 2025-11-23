@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"bad48af31dbcf9e3","type":"text","text":"He fights to protect Dan and himself.","x":-235,"y":-400,"width":250,"height":102},
+		{"id":"47cdbebaa3eff0ee","type":"text","text":"The man they fought threatens Dan and hints at the Cardinal’s impending demise. Dan shrugs it off. “They’ve been telling me that for years.”","x":15,"y":-101,"width":250,"height":261},
+		{"id":"4d4bfbc7de7afb55","type":"text","text":"Caide feels down on himself for betraying Dan.","x":-485,"y":-101,"width":250,"height":141},
+		{"id":"16b0706a14bc1fd2","type":"text","text":"He succeeeds, but is interrupted when a minister arrives and announces the Cardinal’s arrest.","x":830,"y":-400,"width":250,"height":220},
+		{"id":"481572368e517447","type":"text","text":"","x":1080,"y":-101,"width":250,"height":101},
+		{"id":"52b931720f911754","type":"text","text":"Dan prepares to negotiate with a minor noble to further his plans.","x":580,"y":-101,"width":250,"height":181}
+	],
+	"edges":[
+		{"id":"7bca868eb597f71a","fromNode":"4d4bfbc7de7afb55","fromSide":"top","toNode":"bad48af31dbcf9e3","toSide":"bottom"},
+		{"id":"0b2fc73d34f55bdf","fromNode":"bad48af31dbcf9e3","fromSide":"right","toNode":"47cdbebaa3eff0ee","toSide":"top"},
+		{"id":"9a891ab46097677a","fromNode":"16b0706a14bc1fd2","fromSide":"right","toNode":"481572368e517447","toSide":"top"},
+		{"id":"ba338dd57239e23c","fromNode":"52b931720f911754","fromSide":"top","toNode":"16b0706a14bc1fd2","toSide":"bottom"},
+		{"id":"f2cb511185dc3ece","fromNode":"47cdbebaa3eff0ee","fromSide":"right","toNode":"52b931720f911754","toSide":"left"}
+	]
+}

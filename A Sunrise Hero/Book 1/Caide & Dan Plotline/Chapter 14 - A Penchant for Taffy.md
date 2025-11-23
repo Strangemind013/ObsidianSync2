@@ -1,0 +1,3 @@
+- Dan and Sol Iraga watch the duel
+- Dan works Sol, sizing him up and assessing him
+- They need to be in conflict somewhat, perhaps a difference in beliefs

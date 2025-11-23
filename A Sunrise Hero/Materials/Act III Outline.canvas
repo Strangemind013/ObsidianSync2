@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"b12f4ad59d216e58","type":"text","text":"Grin and Hal fight.","x":-341,"y":280,"width":250,"height":60,"color":"2"},
+		{"id":"48a6671c6b74454f","type":"text","text":"Grin is caught.","x":-340,"y":0,"width":250,"height":60,"color":"2"},
+		{"id":"13708729272fe206","type":"text","text":"Dan visits the prison.","x":-340,"y":140,"width":250,"height":60},
+		{"id":"cfac848b3b29945f","type":"text","text":"Caide removes arm.","x":-340,"y":420,"width":250,"height":60,"color":"1"},
+		{"id":"e3642604951db561","type":"text","text":"Grin's execution.","x":-40,"y":140,"width":250,"height":60,"color":"2"},
+		{"id":"394e89c5bf7e803c","type":"text","text":"Grin summons Avrahir.","x":-40,"y":280,"width":250,"height":60},
+		{"id":"e53321618613b6d1","type":"text","text":"Caide gets arm.","x":-39,"y":0,"width":250,"height":60},
+		{"id":"52153e1c117287b2","type":"text","text":"Grin's woman wakes up.","x":-39,"y":420,"width":250,"height":60},
+		{"id":"84697a674b9b7a81","type":"text","text":"Miero caught in fire.","x":260,"y":140,"width":250,"height":60},
+		{"id":"2fbdf8c4f0478753","type":"text","text":"Dan is welcomed back to Redhallow.","x":261,"y":0,"width":250,"height":60},
+		{"id":"1d583c178f7d8f48","type":"text","text":"Dan sets the Smokesons free.","x":560,"y":140,"width":250,"height":60},
+		{"id":"74c73196ce16bf64","type":"text","text":"Smokesons get arrested.","x":561,"y":0,"width":250,"height":60},
+		{"id":"7a0c039bc576e6d5","type":"text","text":"Caide and smokesons fight Avrahir.","x":560,"y":280,"width":250,"height":60,"color":"2"},
+		{"id":"434bea337dfb0107","type":"text","text":"Something short with Dan","x":260,"y":280,"width":250,"height":60},
+		{"id":"7b8363b0e9935210","type":"text","text":"Act III","x":136,"y":-200,"width":250,"height":60},
+		{"id":"8a2e5d5ef68a450f","type":"text","text":"How to Defeat Grin?","x":135,"y":-960,"width":250,"height":60},
+		{"id":"78265efa79ec212f","type":"text","text":"Ask Tahan Iraga for help (He refuses, but sends his son, Sol.)","x":-340,"y":-820,"width":250,"height":120},
+		{"id":"99738e3b03d11c24","type":"text","text":"Sol and his honor guard meet the Smokesons.\n\nCaide spars with Sol and his honor guard.\n\nFind out which of the Smokesons have a knack for Sagecasting.","x":-39,"y":-820,"width":250,"height":360,"color":"2"},
+		{"id":"6cd401ab0ccbd745","type":"text","text":"A Dan chapter that shows the worsening state of the city.\n\nHe visits Caide training with the Smokesons and Sol's honor guard.\n\nA fire breaks out.","x":261,"y":-820,"width":250,"height":360}
+	],
+	"edges":[
+		{"id":"c28628b0908dd2b1","fromNode":"78265efa79ec212f","fromSide":"right","toNode":"99738e3b03d11c24","toSide":"left"},
+		{"id":"e947b89f6910e943","fromNode":"48a6671c6b74454f","fromSide":"right","toNode":"e53321618613b6d1","toSide":"left"},
+		{"id":"d8a2aba72b420690","fromNode":"e53321618613b6d1","fromSide":"right","toNode":"2fbdf8c4f0478753","toSide":"left"},
+		{"id":"f0a09a3588a8b7ce","fromNode":"2fbdf8c4f0478753","fromSide":"right","toNode":"74c73196ce16bf64","toSide":"left"},
+		{"id":"d4eb230df52140e3","fromNode":"74c73196ce16bf64","fromSide":"bottom","toNode":"13708729272fe206","toSide":"top"},
+		{"id":"ee59fa499c9cbcef","fromNode":"13708729272fe206","fromSide":"right","toNode":"e3642604951db561","toSide":"left"},
+		{"id":"95087ca94b600b22","fromNode":"e3642604951db561","fromSide":"right","toNode":"84697a674b9b7a81","toSide":"left"},
+		{"id":"0530c27a5375d56b","fromNode":"84697a674b9b7a81","fromSide":"right","toNode":"1d583c178f7d8f48","toSide":"left"},
+		{"id":"24788bb369ce0510","fromNode":"1d583c178f7d8f48","fromSide":"bottom","toNode":"b12f4ad59d216e58","toSide":"top"},
+		{"id":"91beb09959efa666","fromNode":"b12f4ad59d216e58","fromSide":"right","toNode":"394e89c5bf7e803c","toSide":"left"},
+		{"id":"4586e246e9d73d72","fromNode":"cfac848b3b29945f","fromSide":"right","toNode":"52153e1c117287b2","toSide":"left"},
+		{"id":"a656d9d719a32f31","fromNode":"7a0c039bc576e6d5","fromSide":"right","toNode":"cfac848b3b29945f","toSide":"top"},
+		{"id":"4232280d1ec75a0d","fromNode":"99738e3b03d11c24","fromSide":"right","toNode":"6cd401ab0ccbd745","toSide":"left"},
+		{"id":"7624f17dca3dfc51","fromNode":"6cd401ab0ccbd745","fromSide":"bottom","toNode":"48a6671c6b74454f","toSide":"top"}
+	]
+}

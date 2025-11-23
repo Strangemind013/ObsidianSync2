@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e7c7de2607a17dc5","x":-322,"y":-351,"width":250,"height":511,"type":"text","text":"Saving Camera\n- Store Cam\n- Focal Length\n- Lock Cam"},
+		{"id":"9ebf79b48e353aa9","x":195,"y":-324,"width":250,"height":444,"type":"text","text":"Spotlight\n- Import\n- Put into Spotlight\n- Spotlight Controls\n- Shortcuts\n- Saving Spotlight"}
+	],
+	"edges":[]
+}

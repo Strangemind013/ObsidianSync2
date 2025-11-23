@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"type":"text","text":"Highlights Code:\n- <mark style=\"background: #BBFABBA6;\">Descriptions/Setting</mark>\n- <mark style=\"background: #FFF3A3A6;\">Exposition</mark>\n- <mark style=\"background: #FFB86CA6;\">Characterization</mark>\n- <mark style=\"background: #ABF7F7A6;\">Quote</mark>\n- <mark style=\"background: #FF5582A6;\">Action</mark>\n- <mark style=\"background: #D2B3FFA6;\">Foreshadowing</mark>","id":"34b991185f7af6ef","x":-494,"y":-339,"width":250,"height":439}
+	],
+	"edges":[]
+}

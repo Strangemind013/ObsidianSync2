@@ -1,0 +1,8 @@
+- The brains behind Redhallow
+- Built Redhallow from nothing after winning the war for Lower Meroun
+- An orphan, adopted by Terio Nohada who later became known as The Cardinal
+- Has a working relationship with Lady Tahede, the Lady of Snowdrop Garden. Classic protection racket. Dan punishes unruly patrons harshly to discourage harm and disrespect towards the working women for a small share of the profits.
+- Even after his exile, Redhallow’s “associates” still come to him for their problems. 
+- Finds out pretty soon that his strict, and often brutal adherence to morality was the only thing keeping Redhallow’s members in check.
+- As he was being exiled, manipulated Terio into appointing Brand as his replacement.
+- Told Brand–“not Arten” but chose him as successor anyway, since he had personal issues with the alternative

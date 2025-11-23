@@ -1,0 +1,5 @@
+- Dan get stopped at the gate of Tahan Family Estate.
+- Caide tells the steward to say a specific phrase to the minister. They get let in.
+- Negotiations getting sour. Tahan Iraga shows contempt for Dan.
+- Caide takes over. Leans on his military background.
+- Talks end with Caide having to fight Tahan Iraga.

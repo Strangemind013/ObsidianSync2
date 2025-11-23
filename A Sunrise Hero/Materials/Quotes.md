@@ -1,0 +1,56 @@
+
+- It is said that suffering brings wisdom... You might damn well be a genius after I'm done with you.
+- You want loyalty? Find someone with nothing and make him owe you everything.
+- Hate doesn't just come from nothing. In most cases, it's just love that turned sour.
+- Imagine being one of his men, fighting for your life. Enemies on all fronts, no hope in sight. You fear the end. Then you look to your side and there he is, fighting for your life too. What can be more inspiring than that?
+- What? That's easy for you to say. You've never wanted for power. You've wielded it for as long as you can remember, and now you're just giving it up. Give it a few years. When someone steals from you, hurts you, casts you down without a second thought--talk to me then. I believe you'll be singing a different tune.
+- Pity stays the hand, but forgiveness saves the life.
+- There's five of us and one of you. Good. I'll leave one of you standing, and he can run for help.
+- He might not have intended it, but my beloved grandson lies half-dead. I need someone to blame for that. I need someone to pay… Even if it's me.
+- What nonsense. No one's asking you to be a good person, Blackside. Not even a decent one. Just live your damn life like the rest of us do.
+- Admitting your mistake doesn’t mean I have to forgive you. In fact, the same could be said about an apology–which you have yet to attempt, by the way.
+- What am I left with now? – I wouldn’t know, I’ve known little else.
+- Sometime in the future–could be days, could be years from now… As you choke on hopeless tragedy you will wonder where everything went wrong. You can look back to this moment. This. Right now. The moment you made an enemy of me.
+- Beware of men who insist on peace, as they will commit all kinds of violence to achieve it.
+- “You should’ve let me die.” “Yeah, well. If it were anyone else… But you? Not a chance. Either you live, or make room in your grave for me.
+- “Your leaders keep saying that this is the Summer God’s will.” “I say–leave me out of your mess.”
+- “I will gobble down all the world’s hate if it means I could save it.
+- “You know, Caide, I sincerely hope one day you stop worrying
+- You don’t understand, Viktor. There is no hope for you here. No lesson to be learned, no inspiring story of redemption. The simple fact of the matter is… You fucked up, and it’s going to cost you your life.
+- This place is about to boil over like an unattended cookpot. [Docks scene]
+- She was the kind of danger that inspired hopeless prayer.
+- *Just live your life, Blackside.* Sure, but for the longest time his nights were spent desperately waiting for the sunrise. Over things he’d done. Over things he couldn’t do. Not this time. Not anymore.
+- What’s the worst you can think of? Killing babies? Eating them raw after? Sticking your– You know what? It doesn’t matter. Chances are, in some dusty, gods-forsaken corner of the world, the worst thing you can think of is simply commonplace. That’s what I’m telling you, Minister Diwa. It’s the unimaginable you should worry about.
+- Those who seek pleasure do so to hide their suffering. They do not seek a solution, merely a way to forget. I simply wish to remind them of this fact.
+- These things you’ve done… the world owes you for them. No one else knows about it, but you do. And someday, when you’re ready, I’ll know it too. That has to count for something.
+- These words ring pleasant, sure, but the gratitude I want is for you to live well, if only to stop bothering me with your problems.
+- They need you, yes, but not as much as you think.
+- Never met a problem I couldn’t make worse.
+- I will be alright, I believe. But not anytime soon. For now this is something I have to bear, and in silence for the most part. I will weep when the work is done.
+- You call them lazy, but these are some of the most tireless, hardworking men you will ever find. Nothing quite spurs a man to action than the prospect of starving to death. But you wouldn’t know that, would you?”
+- I don’t run away.
+- I don’t want to hurt you, minister. If you are able to hurt me, soldier, then I only deserve it.
+- Such power… Is this how Sages are like? A visceral thrill shook Dan where he sat. And to think, he has one under his employ.
+- “You there,” Caide said. “You’re the son?” He didn’t shout, but his words rang clear nonetheless. It was as if the wind, the trees, even the sky itself, hushed themselves still to hear him speak. “My apologies. Today you become an orphan.”
+- “How do you deal with the pain?” “Well, it helps if you deserve it.”
+- “You’re given the power to bend the world… and you use it to sharpen your sword? Widen your gaze, child. Look beyond.”
+- “It’s the way of the world, you see. The little thoughts you hold in your head have a way of wriggling itself free. So be mindful of what you keep in there. For instance, you carry on scaring yourself with made up fears, and those come out as piss between your legs at a time where you need to be brave.
+- The truth? You think I care about that? There is no truth. There is only what men believe.
+- I will remind you just this once that you are made of flesh, lowlife. Interrupt me again and you will regret that sorry fact.
+- There is no bravery without fear.
+- One of the great tragedies of life, as it turns out, is that wanting a thing is often more pleasurable than getting it.
+- Let’s grab ourselves a few scars.
+- Victory is born from defeating someone else. I want no part of that.
+- I love my family. I will gladly die for them. It’s the living that’s killing me.
+- This must be what an unpeeled potato feels, floating around in soup.
+- Happiness is a debt. You pay for it–eventually–with grief.
+- I know what you’re doing. However, I must swat away your outstretched hand. Because honestly, I don’t see myself ever talking to you about it. There won’t be enough words to make you understand. You weren’t there. But that’s not your fault. In fact, I envy you for it.
+- *Jabbering about skills.* Yeah? Well learning to shut up is a skill too. How about you work on that?
+- Dan was the only friend he had, like piece of driftwood to a man lost at sea. Caide did a thing. He’s swimming for the shore.
+- What use is there, in honoring the dead? They’re dead. Maybe we should honor the living. We might not have so much funerals to begin with.
+- Nothing is for certain, not until it has already happened. And even then it could just be a lie.
+- And that is all you were? A pair of hands to swing a sword?
+- What is it like, mortal, to reach the end of your existence? To know that the world goes on without you in it? Are you afraid? *Shut up and do it. I’m done being afraid.* Good. Now live.
+- An artist stares at the blank for hours. A musician bleeds his fingers for a haunting harmony. It is a truth that I’ve realized tht it takes a great deal to bring beauty into this world. Explain to me, name, how you do so, effortless, simply by existing.
+- “Of course you do. This isn’t the great secret you think it is.”
+- “The good thing about ‘now,’ is that it can always change. A thousand roads stretching out beneath your feet. Which way do you go, child? Watch your step.”
