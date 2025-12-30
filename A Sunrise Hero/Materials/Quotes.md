@@ -29,14 +29,14 @@
 - I will be alright, I believe. But not anytime soon. For now this is something I have to bear, and in silence for the most part. I will weep when the work is done.
 - You call them lazy, but these are some of the most tireless, hardworking men you will ever find. Nothing quite spurs a man to action than the prospect of starving to death. But you wouldn’t know that, would you?”
 - I don’t run away.
-- I don’t want to hurt you, minister. If you are able to hurt me, soldier, then I only deserve it.
+- I don’t want to hurt you, minister. If you are able to hurt me, soldier, then you have my thanks.
 - Such power… Is this how Sages are like? A visceral thrill shook Dan where he sat. And to think, he has one under his employ.
-- “You there,” Caide said. “You’re the son?” He didn’t shout, but his words rang clear nonetheless. It was as if the wind, the trees, even the sky itself, hushed themselves still to hear him speak. “My apologies. Today you become an orphan.”
+- “You there,” Caide said. “You’re the son?” He didn’t shout, but his words rang clear nonetheless. It was as if the wind, the trees, even the sky itself, stilled themselves to hear him speak. “My apologies. Today you become an orphan.”
 - “How do you deal with the pain?” “Well, it helps if you deserve it.”
 - “You’re given the power to bend the world… and you use it to sharpen your sword? Widen your gaze, child. Look beyond.”
-- “It’s the way of the world, you see. The little thoughts you hold in your head have a way of wriggling itself free. So be mindful of what you keep in there. For instance, you carry on scaring yourself with made up fears, and those come out as piss between your legs at a time where you need to be brave.
+- “It’s the way of the world, you see. The little thoughts you hold in your head have a way of wriggling themselves free. So be mindful of what you keep in there. For instance, you carry on scaring yourself with made up fears, and those come out as piss between your legs when you need to be brave.
 - The truth? You think I care about that? There is no truth. There is only what men believe.
-- I will remind you just this once that you are made of flesh, lowlife. Interrupt me again and you will regret that sorry fact.
+- I will remind you just this once that you are made of flesh, young man. Interrupt me again and you will regret that sorry fact.
 - There is no bravery without fear.
 - One of the great tragedies of life, as it turns out, is that wanting a thing is often more pleasurable than getting it.
 - Let’s grab ourselves a few scars.
@@ -54,3 +54,5 @@
 - An artist stares at the blank for hours. A musician bleeds his fingers for a haunting harmony. It is a truth that I’ve realized tht it takes a great deal to bring beauty into this world. Explain to me, name, how you do so, effortless, simply by existing.
 - “Of course you do. This isn’t the great secret you think it is.”
 - “The good thing about ‘now,’ is that it can always change. A thousand roads stretching out beneath your feet. Which way do you go, child? Watch your step.”
+- “She will need some time to forgive me. Fortunately, I am blessed with patience.”
+- “Not really. I did it for me. Makes me feel like a good person.” “How do you sleep at night?”
