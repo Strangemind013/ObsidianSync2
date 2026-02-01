@@ -56,3 +56,5 @@
 - “The good thing about ‘now,’ is that it can always change. A thousand roads stretching out beneath your feet. Which way do you go, child? Watch your step.”
 - “She will need some time to forgive me. Fortunately, I am blessed with patience.”
 - “Not really. I did it for me. Makes me feel like a good person.” “How do you sleep at night?”
+- “If he’s all that they say he is, then there’s no use. Besides,” Dan said. “I do not run.”
+- “So that’s it, then? You will die for this? You will die to prove a point?” “Among other things.”
