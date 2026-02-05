@@ -29,9 +29,9 @@
 - I will be alright, I believe. But not anytime soon. For now this is something I have to bear, and in silence for the most part. I will weep when the work is done.
 - You call them lazy, but these are some of the most tireless, hardworking men you will ever find. Nothing quite spurs a man to action than the prospect of starving to death. But you wouldn’t know that, would you?”
 - I don’t run away.
-- I don’t want to hurt you, minister. If you are able to hurt me, soldier, then you have my thanks.
+- I don’t want to hurt you, minister. If you are able to hurt me, soldier, then you have my respect.
 - Such power… Is this how Sages are like? A visceral thrill shook Dan where he sat. And to think, he has one under his employ.
-- “You there,” Caide said. “You’re the son?” He didn’t shout, but his words rang clear nonetheless. It was as if the wind, the trees, even the sky itself, stilled themselves to hear him speak. “My apologies. Today you become an orphan.”
+- “You there,” Caide said. “You’re the son?” He didn’t shout, but his words rang clear nonetheless. It was as if the wind, the trees, even the sky itself, stilled themselves to hear him speak. “I’m sorry, but today you become an orphan.”
 - “How do you deal with the pain?” “Well, it helps if you deserve it.”
 - “You’re given the power to bend the world… and you use it to sharpen your sword? Widen your gaze, child. Look beyond.”
 - “It’s the way of the world, you see. The little thoughts you hold in your head have a way of wriggling themselves free. So be mindful of what you keep in there. For instance, you carry on scaring yourself with made up fears, and those come out as piss between your legs when you need to be brave.
