@@ -59,7 +59,8 @@
 		{"id":"3783a45157e97338","type":"text","text":"Dan","x":75,"y":-42,"width":139,"height":60,"color":"6"},
 		{"id":"6da0c0ffbd6e3f5b","type":"text","text":"2. Business deal gone sideways","x":346,"y":-239,"width":265,"height":113,"color":"1"},
 		{"id":"7b288c25ccb76a44","type":"text","text":"Caide","x":207,"y":-364,"width":139,"height":60,"color":"6"},
-		{"id":"7a5409459ca6a46d","type":"text","text":"1. Daily life of Dan","x":-57,"y":-239,"width":265,"height":113,"color":"5"}
+		{"id":"7a5409459ca6a46d","type":"text","text":"1. Daily life of Dan","x":-57,"y":-239,"width":265,"height":113,"color":"5"},
+		{"id":"54187a4e768b9ddc","type":"text","text":" ","x":7540,"y":-497,"width":265,"height":137,"color":"5"}
 	],
 	"edges":[
 		{"id":"930e5562399f4138","fromNode":"7b288c25ccb76a44","fromSide":"bottom","toNode":"6da0c0ffbd6e3f5b","toSide":"left"},
