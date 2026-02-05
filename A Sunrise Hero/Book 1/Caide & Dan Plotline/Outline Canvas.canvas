@@ -60,7 +60,8 @@
 		{"id":"6da0c0ffbd6e3f5b","type":"text","text":"2. Business deal gone sideways","x":346,"y":-239,"width":265,"height":113,"color":"1"},
 		{"id":"7b288c25ccb76a44","type":"text","text":"Caide","x":207,"y":-364,"width":139,"height":60,"color":"6"},
 		{"id":"7a5409459ca6a46d","type":"text","text":"1. Daily life of Dan","x":-57,"y":-239,"width":265,"height":113,"color":"5"},
-		{"id":"54187a4e768b9ddc","type":"text","text":" 16. Caide goes into detail about what it means to be a Sage. The mechanics of it all.","x":7540,"y":-497,"width":265,"height":157,"color":"5"}
+		{"id":"54187a4e768b9ddc","type":"text","text":" 16. Caide goes into detail about what it means to be a Sage. The mechanics of it all.","x":7540,"y":-497,"width":265,"height":157,"color":"5"},
+		{"id":"a960d310872760e9","type":"text","text":"Pung hears a Whisper. “Hold fast, and those behind you will be safe.”","x":7540,"y":-237,"width":265,"height":157,"color":"5"}
 	],
 	"edges":[
 		{"id":"930e5562399f4138","fromNode":"7b288c25ccb76a44","fromSide":"bottom","toNode":"6da0c0ffbd6e3f5b","toSide":"left"},
@@ -117,6 +118,7 @@
 		{"id":"8410b626456044c7","fromNode":"8521ab4a93cb5a37","fromSide":"top","toNode":"772dba309234c707","toSide":"bottom"},
 		{"id":"ffa02d1bd5490930","fromNode":"c3095266ee5d4393","fromSide":"bottom","toNode":"9ff8f49000b165a8","toSide":"top"},
 		{"id":"ea0ec4315ec07559","fromNode":"6da0c0ffbd6e3f5b","fromSide":"right","toNode":"849d928961d35b03","toSide":"top"},
-		{"id":"f82e1fa36857bd59","fromNode":"7a5409459ca6a46d","fromSide":"right","toNode":"6da0c0ffbd6e3f5b","toSide":"left"}
+		{"id":"f82e1fa36857bd59","fromNode":"7a5409459ca6a46d","fromSide":"right","toNode":"6da0c0ffbd6e3f5b","toSide":"left"},
+		{"id":"74013f8f5f0b659a","fromNode":"54187a4e768b9ddc","fromSide":"bottom","toNode":"a960d310872760e9","toSide":"top"}
 	]
 }
