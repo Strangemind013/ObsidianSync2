@@ -13,4 +13,7 @@ What can happen here?
 
 **Why should I remove the Cardinal? (Advantages of having Dan serve a noble / politician instead)**
 
-- No need to waste time fleshing out criminal underworld of Meroun. Can instead focus on nobility which he’d eventually focus on anyway. 
+- No need to waste time fleshing out criminal underworld of Meroun. Can instead focus on nobility which he’d eventually progress to anyway. 
+
+**Why should I NOT remove the Cardinal? (Advantages of having Dan serve a noble / politician instead)**
+- 
