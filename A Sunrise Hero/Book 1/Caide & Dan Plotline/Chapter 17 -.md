@@ -10,4 +10,7 @@ What can NOT happen here?
 What can happen here?
 - Further conflict between Dan and the Cardinal
 - What about instead of the Cardinal, Dan is serving under a powerful noble? Like a minister or some such. Something to think about.
+
+**Why should I remove the Cardinal? (Advantages of having Dan serve a noble / politician instead)**
+
 - 
