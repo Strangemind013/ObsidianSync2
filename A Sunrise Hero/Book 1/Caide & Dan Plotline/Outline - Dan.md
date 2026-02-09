@@ -25,12 +25,8 @@
 
 - Now from Sol’s POV, either he’s travelling to Dan’s place and being shocked by the state of the city outside his nice, perfect little corner of the world. He sees poverty and what the Summer Fires are doing to the people. Shattered world view, with the added benefit of updating the reader on the state of the world. He and his honor guard meet with Caide and Dan. No Smokesons yet, they frown at Sol when as he enters the Fool’s Mug. They’re here discuss taking down Grin. What does this entail? Hmm, I think this is too slow. I’d rather skip to around the middle of their training. Either they start in the middle of a sparring session, but I’m wary of chaining fight scenes together. Maybe I could just “tell” about this, like a memory, like they’ve sparred before. What would be the point of this POV? I think the important part is showing the state of the city, in a way that is character building. What else? Something about explaining the magic system. Also something to show them working together. At some point they agree that they need more Sages. Sol and on in his crew is a Sage, though a weak one, only capable of minor invocations. Caide calls in the Smokesons and gives them a “Sage Test.” I was thinking a stone thingy with the Sixword carving that whispers to people when they put their fist around it. Who might be the potential Sages? Crow and Jule are sure to have. Not Sweet Tooth, nor Duck, nor Lon. Unsure about Batch and Pao. Dan is taking notes about how all this is going down. For Caide, his whisper goes like “Protect, and you will ruin.” His hiyang is Break and Endure. For Sol, it’s something like “Command, and they will follow” or whatever, just to show that his hiyang is destiny.  At some point they discuss the cost, and Caide says they don’t normally speak of it among Sages, and it’s quite rude to ask. But he says it anyway, as a form of goodwill.
 
-
-
-
-
-
-
-
-
 - Somewhere down the line, Dan needs to keep his men safe from Grin’s eventual escape. He gets the Smokesons arrested and sent to Sadampo for a while. He also needs something to distract Sol and his honor guard, something that will take them out of the city. He organizes a party at Canopy Hill to honor Terio’s recognition as the city’s savior.
+
+
+## Rewrite of Dan’s Background:
+
