@@ -36,4 +36,4 @@
 
 ## Some things I need to address to make this work:
 - How Dan works in the background. He distances himself and doesn’t get his hands dirty by always using intermediaries with which he can claim plausible deniability. And as usual, he holds significant leverage over people he chooses to use or interact with. He introduces himself to these people as himself, and claims to be acting on the noble’s orders. This will be used against him, where the noble will deny this and leave him out to dry. 
-- His fall from grace: As with the previous version, this should involve Caide being manipulated in some way. No hostage situation, just have Caide straight up be offered enough money for his arm. He’s 
+- His fall from grace: As with the previous version, this should involve Caide being manipulated in some way. No hostage situation, just have Caide straight up be offered enough money for his arm. He’s seen as Dan’s close associate, and that’s that. It makes sense for someone to do this. I need to think of a way where the betrayal makes sense without straying too far from Caide’s character and not make him seem too much of an idiot. 
