@@ -31,3 +31,4 @@
 ## Rewrite of Dan’s Background:
 
 - Dan, an orphan boy adopted by a powerful noble. He owes his life to this man, and they had a good father-son relationship. That is, until Dan is framed for betraying his father.
+- 
