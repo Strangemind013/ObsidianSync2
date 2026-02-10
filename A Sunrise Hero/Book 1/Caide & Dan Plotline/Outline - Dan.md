@@ -31,4 +31,8 @@
 ## Rewrite of Dan’s Background:
 
 - Dan, an orphan boy adopted by a powerful noble. He owes his life to this man, and they had a good father-son relationship. That is, until Dan is framed for betraying his father.
-- 
+- In truth, the noble isn’t very bright nor competent, but Dan is. And he’s been letting Dan run the show in the shadows. The noble has been holding a decree of legitimization over Dan’s head alll this time, saying that he will put his seal on the decree when the time is right.
+
+
+## Some things I need to address to make this work:
+- How Dan works in the background. How does
