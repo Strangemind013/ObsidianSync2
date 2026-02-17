@@ -6,3 +6,8 @@
 - Finds out pretty soon that his strict, and often brutal adherence to morality was the only thing keeping Redhallow’s members in check.
 - As he was being exiled, manipulated Terio into appointing Brand as his replacement.
 - Told Brand–“not Arten” but chose him as successor anyway, since he had personal issues with the alternative
+
+
+## What I NOW Know About Dan
+
+- 
