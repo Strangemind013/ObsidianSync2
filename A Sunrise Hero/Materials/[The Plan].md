@@ -208,20 +208,15 @@ End every writing day on:
 - A discovery
 - A danger
 
-
 This makes you _excited_ to return tomorrow.
 
 - - -
 ## **Because “write 1,000 words” sounds clear…**  but emotionally it feels like:
 
 - It has to be good
-    
 - It has to be cinematic
-    
 - It has to feel like a real novel
-    
 - It has to match the version in your head
-    
 
 That’s where people stall.
 
@@ -238,17 +233,11 @@ So let’s demystify it.
 They look like:
 
 - Slightly clunky dialogue
-    
 - Overwritten descriptions
-    
 - Repeated phrases
-    
 - Too much exposition
-    
 - Emotions stated too directly
-    
 - Placeholder lines like: `[describe magic better later]`
-    
 
 They are functional words.
 
@@ -263,13 +252,9 @@ Since you’re an outliner, here’s how 1,000 words usually break down:
 ### Example Scene Outline:
 
 - Protagonist sneaks into archive.
-    
 - Guard almost catches them.
-    
 - They discover forbidden prophecy.
-    
 - Realize villain knows their name.
-    
 
 That becomes:
 
@@ -320,20 +305,14 @@ Draft words are scaffolding.
 Revision removes:
 
 - Repetition
-    
 - Clunky phrasing
-    
 - Over-explaining
-    
 
 Revision adds:
 
 - Subtlety
-    
 - Rhythm
-    
 - Voice
-    
 
 Trying to do both at once is what freezes you.
 
@@ -344,11 +323,8 @@ Trying to do both at once is what freezes you.
 When drafting a scene, ask:
 
 1. What changes in this scene?
-    
 2. Who makes a decision?
-    
 3. What new problem is created?
-    
 
 If those three things happen, the words did their job.
 
@@ -359,11 +335,8 @@ If those three things happen, the words did their job.
 If it:
 
 - Moves plot forward
-    
 - Deepens character
-    
 - Raises tension
-    
 
 It is successful.
 
@@ -390,11 +363,8 @@ To make it concrete:
 1,000 words is roughly:
 
 - 3–4 paperback pages
-    
 - 5–6 double-spaced pages
-    
 - About 10–15 minutes of reading time
-    
 
 It’s one solid scene chunk.
 
@@ -407,15 +377,11 @@ Not a masterpiece.
 You are allowed to write:
 
 - On-the-nose magic explanations
-    
 - Obvious villain dialogue
-    
 - Simplified political systems
-    
 - “She felt angry.”
-    
 - “He was scared.”
-    
+
 
 Subtlety comes later.
 
@@ -466,11 +432,8 @@ This section does not need elegance.
 It just needs:
 
 - Tension
-    
 - Social hierarchy
-    
 - A problem (they aren’t being let in)
-    
 
 ---
 
@@ -509,13 +472,9 @@ Small victory.
 Atmosphere.
 
 - Courtyard description
-    
 - Wealth signals
-    
 - Steel motifs everywhere?
-    
 - Workers forging? Silent soldiers?
-    
 
 Fantasy novels breathe here.  
 But draft-level breathing.
@@ -536,22 +495,16 @@ This is the meat.
 Purpose:
 
 - Establish Tahan Iraga’s contempt
-    
 - Undermine Dan
-    
 - Raise stakes
-    
 
 Iraga enters.
 
 What matters:
 
 - How does he look?
-    
 - What’s his energy?
-    
 - How does he dismiss Dan?
-    
 
 Draft dialogue can be blunt:
 
@@ -568,11 +521,8 @@ Talks down to him.
 Maybe:
 
 - Calls him inexperienced.
-    
 - References political weakness.
-    
 - Questions his authority.
-    
 
 Dan loses control of the room.
 
@@ -585,22 +535,16 @@ That’s the emotional shift.
 Purpose:
 
 - Power reversal
-    
 - Shift in tone
-    
 - Show military authority
-    
 
 Caide speaks calmly.
 
 He references:
 
 - Shared campaigns
-    
 - Old battlefield alliances
-    
 - Something Iraga respects
-    
 
 The room shifts.
 
@@ -624,7 +568,6 @@ Talks collapse.
 Iraga decides:
 
 - Pride > negotiation.
-    
 
 Maybe he stands.
 
@@ -645,11 +588,8 @@ Caide accepts.
 End chapter on:
 
 - A line of tension
-    
 - Or the first clang of steel
-    
 - Or Dan realizing this is bigger than politics
-    
 
 That’s your hook.
 
@@ -660,20 +600,14 @@ That’s your hook.
 Nothing here required:
 
 - Beautiful prose
-    
 - Complex metaphors
-    
 - Perfect pacing
-    
 
 It required:
 
 - Clear beats
-    
 - Emotional shifts
-    
 - Escalation
-    
 
 That’s drafting.
 
@@ -684,15 +618,10 @@ That’s drafting.
 You would likely produce:
 
 - 300 words at the gate
-    
 - 200 words intrigue phrase
-    
 - 400 words negotiation
-    
 - 300 words Caide power shift
-    
 - 200 words challenge
-    
 
 You’re already at 1,400 words.
 
@@ -705,13 +634,9 @@ Without trying to be brilliant.
 Your outline already contains:
 
 - Conflict
-    
 - Hierarchy
-    
 - Escalation
-    
 - Stakes
-    
 
 All drafting is:  
 Expanding each bullet into physical experience.
@@ -724,13 +649,9 @@ Excellent question.
 Fantasy writers often try to make someone dangerous by:
 
 - Giving them long villain speeches
-    
 - Describing them as terrifying 12 different ways
-    
 - Making everyone in the room think “he was dangerous”
-    
 - Adding excessive physical intimidation
-    
 
 That’s overwriting.
 
@@ -774,13 +695,9 @@ You show how others behave around him.
 Examples:
 
 - The steward speaks more formally when he enters.
-    
 - A guard straightens immediately.
-    
 - Dan suddenly becomes aware of how young he sounds.
-    
 - Even Caide measures his words more carefully.
-    
 
 That’s it.
 
@@ -814,14 +731,10 @@ Danger isn’t about anger.
 It’s about:
 
 - Influence
-    
 - Resources
-    
 - Reputation
-    
 - The ability to hurt someone without moving
-    
-
+-
 For example:
 
 Instead of threatening directly, he could say:
@@ -851,11 +764,8 @@ Dan thinks negotiations are private.
 Iraga casually references:
 
 - A private conversation
-    
 - A troop movement
-    
 - A weakness in their plan
-    
 
 Even one line like:
 
@@ -876,11 +786,8 @@ Just something precise.
 Examples:
 
 - He corrects a servant mid-sentence and the servant visibly pales.
-    
 - He interrupts Dan and never lets him finish a thought.
-    
 - He dismisses someone who clearly fears disappointing him.
-    
 
 Even this works:
 
@@ -926,11 +833,8 @@ Iraga response:
 That line does three things:
 
 - Undermines Dan
-    
 - Implies outside control
-    
 - Shows confidence
-    
 
 No yelling required.
 
@@ -946,13 +850,9 @@ Or am I letting them feel it?
 If you used:
 
 - “terrifying”
-    
 - “intimidating”
-    
 - “powerful”
-    
 - “dangerous”
-    
 
 Delete it.
 
@@ -967,30 +867,20 @@ In tense moments, everyone moves except him.
 People:
 
 - Shift in chairs
-    
 - Tap fingers
-    
 - Clear throats
-    
 
 Iraga:
 
 - Does not move.
-    
 - Does not rush.
-    
 - Does not fill silence.
-    
 
 Stillness reads as control.
 
 Control reads as danger.
 
 ---
-
-If you’d like, paste 5–10 lines of how you imagine Iraga speaking, and I’ll help you sharpen them without increasing word count.
-
-- - - 
 
 
 
