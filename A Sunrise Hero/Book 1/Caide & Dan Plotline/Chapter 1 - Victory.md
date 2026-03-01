@@ -27,3 +27,8 @@ All that effort just for something nice to look at.
 
 Dan would’ve allowed himself to enjoy it more, he admitted, if only he wasn’t painfully aware of what it had cost them to get there. But nothing worth having was achieved without hard work, and hard work was exactly what it took. That, and sacrifice. And blood. And an unimaginable amount of ruthlessness.
 
+- - - 
+
+- Introduce Dan
+- Set up the story
+- Hint at Caide
