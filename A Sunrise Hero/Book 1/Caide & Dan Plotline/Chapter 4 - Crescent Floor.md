@@ -256,7 +256,7 @@ It took Caide a moment to understand. “You... want me back?” he asked, voice
 
   
 
-Dan raised a hand and cut him off. “How many times must I say it? I’m on your side, Caide. Always.” He had that annoyed look on him, one he had when explaining something obvious. “I’ve known you for what? Six, seven years now? All this time you didn’t make so much as a hint of trouble. Not a peep. One blunder every seven years?” He shrugged. “I can live with that.” 
+Dan raised a hand and cut him off. “How many times must I say it? I’m on your side, Caide. Always.” He had that annoyed look on him, one he had when explaining something obvious. “I’ve known you for what? Six, seven years now? All this time you didn’t make so much as a hint of trouble. If a betrayal once every seven years is the price for your friendship, then I consider that a bargain well-struck.”
 
   
 
