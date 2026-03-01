@@ -40,4 +40,4 @@ Free writing:
 - The difference between Dan and his adopted father is Dan’s ability to forgive, which shows his character and morality. It is shown in the way he forgives Caide for his betrayal, and the way his father refuses to forgive him. 
 - This father must be a justifiably bad person so that Dan has to stop him, no matter how difficult it is for him. 
 - Alright cool, what about chapter 1, then? What happens here? I mean I gotta think of a plotline for this. Here goes:
-   > Dan is accused of betrayal > Dan is exiled, stripped of his privileges, has to start from scratch > Gains a following, and in turn some power and influence > Father doesn’t like this ()
+   > Dan is accused of betrayal > Dan is exiled, stripped of his privileges, has to start from scratch > Gains a following, and in turn some power and influence > Father doesn’t like this (what does he do to stop Dan?) 
