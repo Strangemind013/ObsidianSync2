@@ -36,4 +36,8 @@ Dan would’ve allowed himself to enjoy it more, he admitted, if only he wasn’
 Free writing:
 - Something witty as an opening line. Something that encapsulates what Dan is all about. 
 - What can happen here? Well,  what do I know? I know that I changed Dan’s background. He’s now the adopted son of a powerful noble (whose rise to power was Dan’s doing). Their conflict is that Dan expects his adopted father to accept him fully, which was never going to happen. He’s still not a true noble, no matter what he does for his father. He needs to start doing things for himself, take responsibility, and grab power for himself if wants to change things. 
-- He slowly realizes that his father is a cunt, he’s just bound by loyalty and ‘utang na loob,’ so he refuses to accept it. “When is it moral to betray an evil person”
+- He slowly realizes that his father is a cunt, he’s just bound by loyalty and ‘utang na loob,’ so he refuses to accept it. “When is it moral to betray an evil person that you owe everything to?”
+- The difference between Dan and his adopted father is Dan’s ability to forgive, which shows his character and morality. It is shown in the way he forgives Caide for his betrayal, and the way his father refuses to forgive him. 
+- This father must be a justifiably bad person so that Dan has to stop him, no matter how difficult it is for him. 
+- Alright cool, what about chapter 1, then? What happens here? I mean I gotta think of a plotline for this. Here goes:
+   > Dan is accused of betrayal > Dan is exiled, stripped of his privileges, has to start from scratch > Gains a following, and in turn some power and influence > Father doesn’t like this ()
