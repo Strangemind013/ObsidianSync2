@@ -31,4 +31,9 @@ Dan would’ve allowed himself to enjoy it more, he admitted, if only he wasn’
 
 - Introduce Dan
 - Set up the story
-- Hint at Caide
+- Hint at Caide’s presence (or in this case, absence)
+
+Free writing:
+- Something witty as an opening line. Something that encapsulates what Dan is all about. 
+- What can happen here? Well,  what do I know? I know that I changed Dan’s background. He’s now the adopted son of a powerful noble (whose rise to power was Dan’s doing). Their conflict is that Dan expects his adopted father to accept him fully, which was never going to happen. He’s still not a true noble, no matter what he does for his father. He needs to start doing things for himself, take responsibility, and grab power for himself if wants to change things. 
+- He slowly realizes that his father is a cunt, he’s just bound by loyalty and ‘utang na loob,’ so he refuses to accept it. “When is it moral to betray an evil person”
