@@ -261,3 +261,212 @@ End every writing day on:
 
 This makes you _excited_ to return tomorrow.
 
+- - -
+## **Because “write 1,000 words” sounds clear…**  but emotionally it feels like:
+
+- It has to be good
+    
+- It has to be cinematic
+    
+- It has to feel like a real novel
+    
+- It has to match the version in your head
+    
+
+That’s where people stall.
+
+So let’s demystify it.
+
+---
+
+
+
+
+
+# 🎯 What 1,000 Draft Words Actually Look Like
+
+They look like:
+
+- Slightly clunky dialogue
+    
+- Overwritten descriptions
+    
+- Repeated phrases
+    
+- Too much exposition
+    
+- Emotions stated too directly
+    
+- Placeholder lines like: `[describe magic better later]`
+    
+
+They are functional words.
+
+Not final words.
+
+---
+
+# 🧱 Think of 1,000 Words as: Scene Expansion
+
+Since you’re an outliner, here’s how 1,000 words usually break down:
+
+### Example Scene Outline:
+
+- Protagonist sneaks into archive.
+    
+- Guard almost catches them.
+    
+- They discover forbidden prophecy.
+    
+- Realize villain knows their name.
+    
+
+That becomes:
+
+---
+
+### What 1,000 Words Might Contain:
+
+**200–300 words**  
+Setting + sensory detail  
+Dust, torchlight, smell of parchment, tension.
+
+**300–400 words**  
+Internal thoughts  
+Fear. Doubt. Justification.
+
+**300–400 words**  
+Dialogue + action  
+Footsteps. Close call. Discovery moment.
+
+That’s it.
+
+That’s 1,000 words.
+
+It’s not epic prose.  
+It’s expanded bullet points.
+
+---
+
+# 📝 Here’s What “Good Drafting” Looks Like
+
+Instead of:
+
+> The ancient archive loomed with oppressive grandeur, a testament to centuries of imperial ambition.
+
+Draft version:
+
+> The archive was bigger than she expected. The ceilings were high and the air smelled old. Too quiet. Every step echoed more than she liked.
+
+Not beautiful.  
+But usable.
+
+---
+
+# 🔥 The Real Secret
+
+Draft words are scaffolding.
+
+Revision removes:
+
+- Repetition
+    
+- Clunky phrasing
+    
+- Over-explaining
+    
+
+Revision adds:
+
+- Subtlety
+    
+- Rhythm
+    
+- Voice
+    
+
+Trying to do both at once is what freezes you.
+
+---
+
+# 💡 Your 1,000 Words Should Aim To Do ONLY 3 Things
+
+When drafting a scene, ask:
+
+1. What changes in this scene?
+    
+2. Who makes a decision?
+    
+3. What new problem is created?
+    
+
+If those three things happen, the words did their job.
+
+---
+
+# ⚖️ Quality Standard for Draft 1
+
+If it:
+
+- Moves plot forward
+    
+- Deepens character
+    
+- Raises tension
+    
+
+It is successful.
+
+Even if it’s ugly.
+
+---
+
+# 🧠 Reframe This
+
+Instead of:  
+“I need to write beautifully.”
+
+Say:  
+“I need to write clearly enough that Future Me can revise it.”
+
+That’s the bar.
+
+---
+
+# 📊 Practical Breakdown of 1,000 Words
+
+To make it concrete:
+
+1,000 words is roughly:
+
+- 3–4 paperback pages
+    
+- 5–6 double-spaced pages
+    
+- About 10–15 minutes of reading time
+    
+
+It’s one solid scene chunk.
+
+Not a masterpiece.
+
+---
+
+# 🧙 Fantasy-Specific Permission Slip
+
+You are allowed to write:
+
+- On-the-nose magic explanations
+    
+- Obvious villain dialogue
+    
+- Simplified political systems
+    
+- “She felt angry.”
+    
+- “He was scared.”
+    
+
+Subtlety comes later.
+
+Clarity comes first.
