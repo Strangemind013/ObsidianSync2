@@ -41,3 +41,6 @@ Free writing:
 - This father must be a justifiably bad person so that Dan has to stop him, no matter how difficult it is for him. 
 - Alright cool, what about chapter 1, then? What happens here? I mean I gotta think of a plotline for this. Here goes:
    > Dan is accused of betrayal > Dan is exiled, stripped of his privileges, has to start from scratch > Gains a following, and in turn some power and influence > Father doesn’t like this (what does he do to stop Dan?) 
+   
+   - Bounced some ideas with ChatGPT. Here’s some key points:
+     - Grin needs to realize that despair is greater after a small taste of victory (he plans to get caught) “Good. There is potential in you. Go. This city is mine, but I will show you mercy. Flee with your lives.”
