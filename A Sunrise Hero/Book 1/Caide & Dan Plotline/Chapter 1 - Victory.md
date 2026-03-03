@@ -35,8 +35,10 @@ Goals:
 - Introduce Dan (show his current state, as well as the state of the world. This is his highest point in a while)
 - Setting up a party (what could they be celebrating?)
 - Where’s Caide?
-- Show him executing a cunning political maneuver (something that ties into the next chapter, about acquiring a quarry)
+- Small council meeting (among other topics, something about acquiring a quarry, and securing food for the summer)
 - Not sure yet how to end this
-- ==What changes in the scene?== 
+- ==What changes in the scene?== Dan has to do the distasteful thing of intimidating/threatening a servant girl. But it is necessary.
+- ==Who makes a decision?== Dan makes the decisions.
+- ==What new problem is created?== A servant girl stumbles into their secret meeting.
 
 
