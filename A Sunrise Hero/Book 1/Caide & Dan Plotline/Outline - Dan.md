@@ -37,3 +37,25 @@
 ## Some things I need to address to make this work:
 - How Dan works in the background. He distances himself and doesn’t get his hands dirty by always using intermediaries with which he can claim plausible deniability. And as usual, he holds significant leverage over people he chooses to use or interact with. He introduces himself to these people as himself, and claims to be acting on the noble’s orders. This will be used against him, where the noble will deny this and leave him out to dry. 
 - His fall from grace: As with the previous version, this should involve Caide being manipulated in some way. No hostage situation, just have Caide straight up be offered enough money for his arm. He’s seen as Dan’s close associate, and that’s that. It makes sense for someone to do this. I need to think of a way where the betrayal makes sense without straying too far from Caide’s character and not make him seem too much of an idiot.  What could that be? Maybe he’s 
+
+- - - 
+# Another Dan rewrite (it’s looking like the one)
+
+- Introduce Dan
+- Set up the story
+- Hint at Caide’s presence (or in this case, absence)
+
+Free writing:
+- Something witty as an opening line. Something that encapsulates what Dan is all about. 
+- What can happen here? Well,  what do I know? I know that I changed Dan’s background. He’s now the adopted son of a powerful noble (whose rise to power was Dan’s doing). Their conflict is that Dan expects his adopted father to accept him fully, which was never going to happen. He’s still not a true noble, no matter what he does for his father. He needs to start doing things for himself, take responsibility, and grab power for himself if wants to change things. 
+- He slowly realizes that his father is a cunt, he’s just bound by loyalty and ‘utang na loob,’ so he refuses to accept it. “When is it moral to betray an evil person that you owe everything to?”
+- The difference between Dan and his adopted father is Dan’s ability to forgive, which shows his character and morality. It is shown in the way he forgives Caide for his betrayal, and the way his father refuses to forgive him. 
+- This father must be a justifiably bad person so that Dan has to stop him, no matter how difficult it is for him. 
+- Alright cool, what about chapter 1, then? What happens here? I mean I gotta think of a plotline for this. Here goes:
+   > Dan is accused of betrayal > Dan is exiled, stripped of his privileges, has to start from scratch > Gains a following, and in turn some power and influence > Father doesn’t like this (what does he do to stop Dan?) 
+   
+   - Bounced some ideas with ChatGPT. Here’s some key points:
+     - Grin needs to realize that despair is greater after a small taste of victory (he plans to get caught) “Good. There is potential in you. Go. This city is mine, but I will show you mercy. Flee with your lives.”
+
+- Vene is the Minister of Works. He’s responsible for the roads, gates, quarries, mines, etc. He has the ability to shut off the bridges and gates of the city to isolate the lower district and leave them on their own without support. This is why Dan makes a deal with Grin. “Don’t you see? They are already lost.” “No, Father. I see it now. It is you who are lost.”
+- Throughout the story we see hints of Dan coordinating an import of supplies, to be used on the Lower District. It arrives just in time, escorted by Sol and his crew (a great reason for his absence when Caide )
