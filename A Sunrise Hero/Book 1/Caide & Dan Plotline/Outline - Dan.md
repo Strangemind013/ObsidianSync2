@@ -58,4 +58,5 @@ Free writing:
      - Grin needs to realize that despair is greater after a small taste of victory (he plans to get caught) “Good. There is potential in you. Go. This city is mine, but I will show you mercy. Flee with your lives.”
 
 - Vene is the Minister of Works. He’s responsible for the roads, gates, quarries, mines, etc. He has the power to shut off the bridges and gates of the city to isolate the lower district and leave them on their own without support. This is why Dan makes a deal with Grin. “Don’t you see? They are already lost.” “No, Father. I see it now. It is you who are lost.”
-- Throughout the story we see hints of Dan coordinating an import of supplies, to be used on the Lower District. It arrives just in time, escorted by Sol and his crew (a great reason for his absence when Caide kills Tahan and the others!)
+- Throughout the story we see hints of Dan coordinating an import of supplies, to be used on the Lower District. It arrives just in time, escorted by Sol and his crew (a great reason for his absence when Grin kills Tahan and the others)
+- 
