@@ -33,4 +33,5 @@ Dan would’ve allowed himself to enjoy it more, he admitted, if only he wasn’
 
 Goals:
 - Introduce Dan (show his current state, as well as the state of the world. This is his highest point in a while)
+- Setting up a party (what could they be celebrating?)
 - 
