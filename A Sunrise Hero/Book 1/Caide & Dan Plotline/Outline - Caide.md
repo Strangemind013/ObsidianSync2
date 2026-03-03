@@ -27,6 +27,9 @@
 - Grin is subdued through a combination of teamwork, planning, and creativity. They spare him and send him to prison to serve as proof and for them to earn a reward for their efforts. [Need to flesh this out]
 
 - When they present Grin to the King, they ask them what they want as reward. Caide has a decision to make: ask for the Smokesons’ pardons, or ask for jade that will complete his arm. He weighs it heavily, and decides to ask for the jade instead. Why? He hates how much their victory came down luck, and is determined that should the next powerful Sage appear, he could deal with it. He justifies that he, or maybe Dan, could work out another way to secure their pardons. 
+
+- At Caide’s lowest point, he loses the Smokesons. He’s all alone and Grin is here. (Sol and his crew are away escorting grain from somewhere)
+
 - Caide won’t defeat Grin in single combat. They fight up to a point, with Grin holding back, until Caide is forced to give up his arm. As he gives up his arm, he loses control over Destiny. After he does, Grin looks pleased and refuses to fight anymore, saying that he’s accomplished what he set out to do for now.
 
 - A faceless appears, and Grin tells Caide that right there is their real enemy. He sits down, saying that he won’t participate, that it’s their fight now. Caide tries to fight it alone, without much success. Grin ends up saving him, in fact. Caide is exhausted, beaten down, and loses hope. The faceless is about to strike him down when Sol nudges the metal studs on his clothing. Help has arrived.
