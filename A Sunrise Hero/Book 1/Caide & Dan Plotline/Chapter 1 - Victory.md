@@ -36,9 +36,15 @@ Goals:
 - Setting up a party (what could they be celebrating?)
 - Where’s Caide?
 - Small council meeting (among other topics, something about acquiring a quarry, and securing food for the summer)
+- Why so secretive? Dan is controlling things from the shadows. On the outside he’s a pleasant steward  to the Minister, but in truth he makes most of the important decisions and planning.
 - Not sure yet how to end this
 - ==What changes in the scene?== Dan has to do the distasteful thing of intimidating/threatening a servant girl. But it is necessary.
 - ==Who makes a decision?== Dan makes the decisions.
-- ==What new problem is created?== A servant girl stumbles into their secret meeting.
+- ==What new problem is created?== A servant girl stumbles into their secret meeting. Dan has to make her keep it secret.
+- Him sparing the servant girl somehow bites him in the ass later.
 
+
+Early morning. Dewy. Describe the Minister’s home. Grand, tasteful, spacious. Dan contemplates the things rich people take for granted. He sips his tea.
+
+Dan gets u
 
