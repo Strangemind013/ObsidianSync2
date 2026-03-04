@@ -51,5 +51,5 @@ Around him, the courtyard is busy. People bustling to and fro. Dan addresses mul
 
 Dan contemplates how funny it is that he’s doing all this work for an event he won’t attend. All the food he likes, but he won’t be around to partake. Still, he bears no resentment. It’s just work to be done for his father. 
 
-
+After addressing everyone, Dan heads inside where the he meets the 
 
