@@ -42,9 +42,14 @@ Goals:
 - ==Who makes a decision?== Dan makes the decisions.
 - ==What new problem is created?== A servant girl stumbles into their secret meeting. Dan has to make her keep it secret.
 - Him sparing the servant girl somehow bites him in the ass later.
+- Dan won’t get invited to the party he’s planning. He is, after all, someone to be considered as an illegitimate child. 
 
 
 Early morning. Dewy. Describe the Minister’s home. Grand, tasteful, spacious. Dan contemplates the things rich people take for granted. He sips his tea.
 
-Dan gets u
+Around him, the courtyard is busy. People bustling to and fro. Dan addresses multiple issues. Butchers, decorators, staffing. Party preparations. [Need something to celebrate.] 
+
+Dan contemplates how funny it is that he’s doing all this work for an event he won’t attend. All the food he likes, but he won’t be around to partake. Still, he bears no resentment. It’s just work to be done for his father. 
+
+
 
