@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"d6bd5473737f3e69","type":"text","text":"","x":1824,"y":-742,"width":250,"height":60},
 		{"id":"247d982b1ed9761f","type":"text","text":"7. Failed firefighting attempt ","x":2093,"y":-497,"width":265,"height":107,"color":"1"},
 		{"id":"849d928961d35b03","type":"text","text":"3. Demotion (The Party)","x":548,"y":-66,"width":265,"height":107,"color":"2"},
 		{"id":"c6e51a90481bd3b5","type":"text","text":"4. Hira tells Caide to secure his arm at the docks.","x":681,"y":-497,"width":265,"height":107,"color":"3"},
