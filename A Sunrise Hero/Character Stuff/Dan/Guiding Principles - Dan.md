@@ -36,4 +36,4 @@
 - ???
 - Conflict with Bene comes to a head when it’s revealed that the nobles plan to abandon the common people and save themselves (They find a religious/justifiable reason for it)
 - Dan strikes a deal with Grin to eliminate city’s most powerful, including Bene
-- 
+- He becomes head of the Haera clan
