@@ -24,3 +24,12 @@
 
 *If I do not take them down, they will continue to do harm. I must seize power for myself. I may not be perfect, but I will make sure to do right.* 
 
+- - -
+# **Plot Points**
+
+- Show his status quo as Haera clan’s adopted son (Secret leader)
+- Exile comes unexpected, swift and final
+- Regroup
+- Form Smokesons
+- Make political / economic moves (to maintain Smokeson operations, prevent st)
+- 
