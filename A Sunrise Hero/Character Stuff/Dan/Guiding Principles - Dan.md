@@ -28,8 +28,12 @@
 # **Plot Points**
 
 - Show his status quo as Haera clan’s adopted son (Secret leader)
-- Exile comes unexpected, swift and final
-- Regroup
+- Exile comes unexpected, swift and unforgiving
+- Assess and regroup
 - Form Smokesons
-- Make political / economic moves (to maintain Smokeson operations, prevent st)
+- Make political / economic moves (to maintain Smokeson operations, prevent starvation of Meroun)
+- **Subplot:** secret romance with princess
+- ???
+- Conflict with Bene comes to a head when it’s revealed that the nobles plan to abandon the common people and save themselves (They find a religious/justifiable reason for it)
+- Dan strikes a deal with Grin to eliminate city’s most powerful, including Bene
 - 
