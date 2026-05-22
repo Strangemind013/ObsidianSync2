@@ -20,7 +20,7 @@
 
 **Sub-Themes:** Sacrifice and cost
 
-**SHORT SYNOPSIS:** Caide, a crippled war hero, is recruited by his friend Dan in a foolhardy group tasked with stopping the summer fires. As tensions rise in the city besieged by starvation and malcontent caused by a fire-starting demigod, Caide's abilities in swordplay and sagecraft are pushed to the limit. It all comes to a head when he is forced to choose one to give up forever. In the end the demigod is successful with his plan and Caide has to give up ever getting his arm back, but he learns to trust himself again, is more open to receiving help, and has accepted that his handicap is now part of who he is.
+**SHORT SYNOPSIS:** Caide, a crippled war hero, is recruited by his friend Dan in a foolhardy group tasked with stopping the summer fires. As tensions rise in the city besieged by starvation and malcontent caused by a fire-starting demigod, Caide's abilities in swordplay and sagecraft are pushed to the limit. It all comes to a head when he is forced to choose to give up one forever. In the end the demigod is successful with his plan and Caide has to give up ever getting his arm back, but he learns to trust himself again, is more open to receiving help, and has accepted that his handicap is now part of who he is.
 
 WEAKNESS:
 
