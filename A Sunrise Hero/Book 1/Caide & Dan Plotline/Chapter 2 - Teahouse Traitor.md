@@ -14,3 +14,10 @@
 
 In his mind, Caide agrees. So naive, in fact, that he didn’t notice his betrayal. 
 
+Sweat. Something about the heat.
+
+“Something’s off. With you. Having trouble with sleep?”
+
+Caide presses on his neck. “Having trouble with everything.”
+
+“”
