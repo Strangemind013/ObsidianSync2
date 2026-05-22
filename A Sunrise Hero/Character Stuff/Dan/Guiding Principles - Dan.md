@@ -18,7 +18,7 @@
 
 **THEME:** Should you forsake your own morality to seize power from those who would abuse it?
 
-**Sub-Themes:** Living vicariously through others, empathy
+**Sub-Themes:** Should you put morality on hold when survival is at stake?
 
 **SHORT SYNOPSIS:** Dan, the adopted son of one of the city’s noble families, is accused of betrayal and stripped of power. He uses his wits and cunning to stop the summer fires and redeem himself while still retaining his principles. In the end he learns to take ownership of his life and what it truly means to lead. 
 
