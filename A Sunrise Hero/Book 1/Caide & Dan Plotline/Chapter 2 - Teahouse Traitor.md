@@ -1,6 +1,8 @@
 “They’re late.”
 
-“We’re early. Why are we always early?”
+“We’re early.”
+
+“Why are we always early?”
 
 “It’s good manners.”
 
@@ -12,7 +14,7 @@
 
 “Then I am naive.”
 
-In his mind, Caide agrees. So naive, in fact, that he didn’t notice his betrayal. 
+In his mind, Caide agrees. So naive, in fact, that he didn’t notice his betrayal. The effects of which are yet to be felt. 
 
 Sweat. Something about the heat.
 
