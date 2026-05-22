@@ -36,5 +36,9 @@ Caide presses on his neck. “Having trouble with everything.”
 
 “Good enough for what?”
 
+What indeed.
+
+Interrupted by people arriving. 
+
 
 
