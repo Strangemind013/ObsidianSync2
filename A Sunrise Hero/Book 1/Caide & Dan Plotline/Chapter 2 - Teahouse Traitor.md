@@ -36,7 +36,7 @@ Caide presses on his neck. “Having trouble with everything.”
 
 “Good enough for what?”
 
-What indeed.
+“Good enough to be.”
 
 Interrupted by people arriving. 
 
