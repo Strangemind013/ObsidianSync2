@@ -16,13 +16,13 @@
 
 In his mind, Caide agrees. So naive, in fact, that he didn’t notice his betrayal. The effects of which are yet to be felt. 
 
-Sweat. Something about the heat.
+Sweat. Something about the heat. Caide getting annoyed.
 
 “Something’s off. With you. Having trouble with sleep?”
 
 Caide presses on his neck. “Having trouble with everything.”
 
-“Right. Look, Caide. Are you sure about… you know. It sounds like too good a deal, no? Can we really trust… whatever it is she’s claimed she created? ”
+“Right. Look, Caide. Are you sure about… you know.  Can we really trust whatever it is she’s claimed she created? ”
 
 “You’ve known her longer.”
 
