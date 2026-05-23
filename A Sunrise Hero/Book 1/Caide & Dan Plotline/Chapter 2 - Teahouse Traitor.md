@@ -26,7 +26,7 @@ Caide presses on his neck. “Having trouble with everything.”
 
 “You’ve known her longer.”
 
-“What I know is she’s not infallible.”
+“Who knows with that woman.”
 
 “It’s better than nothing.”
 
