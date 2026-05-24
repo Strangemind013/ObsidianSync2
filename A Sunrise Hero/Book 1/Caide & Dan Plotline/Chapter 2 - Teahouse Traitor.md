@@ -22,7 +22,7 @@ Sweat. Something about the heat. Caide getting annoyed.
 
 Caide presses on his neck. “Having trouble with everything.”
 
-“Right. Look, Caide. Are you sure about… you know.  Can we really trust whatever it is she’s claimed she created? ”
+“Right. Look, Caide. Are you sure about… you know.  Do you really believe what she’s selling? ”
 
 “You’ve known her longer.”
 
@@ -40,7 +40,7 @@ Caide presses on his neck. “Having trouble with everything.”
 
 Interrupted by people arriving. 
 
-
+Not sure what this is yet, just that it needs to pressure Caide. Most likely a deal gone sour. [TK]
 
 
 
