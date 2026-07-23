@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"ba29be494e573118","x":-235,"y":-369,"width":250,"height":129,"color":"6","type":"text","text":"Caide wants an arm (not be a cripple)"},
-		{"id":"788c17d04ff8b560","x":60,"y":-120,"width":250,"height":80,"color":"3","type":"text","text":"Steal?\nPossible. "},
-		{"id":"94a1ce61688114d7","x":-235,"y":-120,"width":250,"height":120,"color":"1","type":"text","text":"Betray Dan for money?\nPossible, though it’s not too logical."},
-		{"id":"ff2a4f0364520d0b","x":-560,"y":-110,"width":250,"height":90,"color":"1","type":"text","text":"Work diligently?\nToo slow."},
-		{"id":"a42face6fe65105c","x":-235,"y":60,"width":250,"height":120,"color":"1","type":"text","text":"Marry into royalty?\n\nFunny, but far-fetched."},
-		{"id":"b29c777765c1771b","x":60,"y":60,"width":250,"height":180,"color":"1","type":"text","text":"Assassinate someone for money?\n\nNo, because he doesn’t want to draw his sword. \n"},
-		{"id":"b0de8ff2e6e72b31","x":-560,"y":57,"width":250,"height":183,"color":"1","type":"text","text":"Ask Dan for money?\nHe won’t say it outright, and Dan implied he can’t anyway. Help is for the weak."},
-		{"id":"36af4e0d4e582e2c","x":-560,"y":300,"width":250,"height":160,"color":"3","type":"text","text":"Blackmail someone for money?\nCould be something. Maybe Dan is in on it."}
+		{"id":"ba29be494e573118","type":"text","text":"Caide wants an arm (not be a cripple)","x":-235,"y":-369,"width":250,"height":129,"color":"6"},
+		{"id":"94a1ce61688114d7","type":"text","text":"Betray Dan for money?\nPossible, though it’s not too logical.","x":-235,"y":-120,"width":250,"height":120,"color":"1"},
+		{"id":"ff2a4f0364520d0b","type":"text","text":"Work diligently?\nToo slow.","x":-560,"y":-110,"width":250,"height":90,"color":"1"},
+		{"id":"a42face6fe65105c","type":"text","text":"Marry into royalty?\n\nFunny, but far-fetched.","x":-235,"y":60,"width":250,"height":120,"color":"1"},
+		{"id":"b0de8ff2e6e72b31","type":"text","text":"Ask Dan for money?\nHe won’t say it outright, and Dan implied he can’t anyway. Help is for the weak.","x":-560,"y":57,"width":250,"height":183,"color":"1"},
+		{"id":"36af4e0d4e582e2c","type":"text","text":"Blackmail someone for money?\nCould be something. Maybe Dan is in on it.","x":-560,"y":300,"width":250,"height":160,"color":"3"},
+		{"id":"788c17d04ff8b560","type":"text","text":"Steal?\nPossible. ","x":100,"y":-120,"width":250,"height":80,"color":"3"},
+		{"id":"b29c777765c1771b","type":"text","text":"Assassinate someone for money?\n\nNo, because he doesn’t want to draw his sword. \n","x":100,"y":60,"width":250,"height":180,"color":"1"}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
