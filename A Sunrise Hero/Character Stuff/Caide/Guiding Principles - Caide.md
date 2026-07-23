@@ -28,3 +28,9 @@ PSYCHOLOGICAL NEED:
 
 MORAL NEED:
 
+
+
+
+**Decisions:**
+
+- Caide is a cripple. What does he do?
