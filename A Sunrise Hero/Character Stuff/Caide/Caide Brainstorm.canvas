@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ba29be494e573118","x":-235,"y":-369,"width":250,"height":129,"color":"1","type":"text","text":"Caide wants an arm (not be a cripple)"},
+		{"id":"94a1ce61688114d7","x":-235,"y":-120,"width":250,"height":80,"type":"text","text":"Betray Dan for money"},
+		{"id":"788c17d04ff8b560","x":60,"y":-220,"width":250,"height":60,"type":"text","text":"Steal?"}
+	],
+	"edges":[
+		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
+		{"id":"761256b6afc64678","fromNode":"ba29be494e573118","fromSide":"right","toNode":"788c17d04ff8b560","toSide":"top"}
+	]
+}
