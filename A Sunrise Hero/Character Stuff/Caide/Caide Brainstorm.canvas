@@ -7,7 +7,8 @@
 		{"id":"b0de8ff2e6e72b31","type":"text","text":"Ask Dan for money?\nHe won’t say it outright, and Dan implied he can’t anyway. Help is for the weak.","x":-560,"y":57,"width":250,"height":183,"color":"1"},
 		{"id":"36af4e0d4e582e2c","type":"text","text":"Blackmail someone for money?\nCould be something. Maybe Dan is in on it.","x":-560,"y":300,"width":250,"height":160,"color":"3"},
 		{"id":"788c17d04ff8b560","type":"text","text":"Steal?\nPossible. ","x":100,"y":-120,"width":250,"height":80,"color":"3"},
-		{"id":"b29c777765c1771b","type":"text","text":"Assassinate someone for money?\n\nNo, because he doesn’t want to draw his sword. \n","x":100,"y":60,"width":250,"height":180,"color":"1"}
+		{"id":"b29c777765c1771b","type":"text","text":"Assassinate someone for money?\n\nNo, because he doesn’t want to draw his sword. \n","x":100,"y":60,"width":250,"height":180,"color":"1"},
+		{"id":"09efeb9f034a5e17","x":-235,"y":240,"width":250,"height":140,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
