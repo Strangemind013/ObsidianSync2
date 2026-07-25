@@ -1,13 +1,14 @@
 {
 	"nodes":[
 		{"id":"ba29be494e573118","type":"text","text":"Caide wants an arm (not be a cripple)","x":-235,"y":-369,"width":250,"height":129,"color":"6"},
-		{"id":"94a1ce61688114d7","type":"text","text":"Caide agrees to steal a ledger from the Minister’s office. \n\n","x":-235,"y":-120,"width":250,"height":269,"color":"1"},
+		{"id":"94a1ce61688114d7","type":"text","text":"Caide agrees to steal a ledger from the Minister’s office. \n\n","x":-235,"y":-120,"width":250,"height":140,"color":"4"},
 		{"id":"ff2a4f0364520d0b","type":"text","text":"Work diligently?\nToo slow.","x":-560,"y":-110,"width":250,"height":90,"color":"1"},
 		{"id":"b0de8ff2e6e72b31","type":"text","text":"Ask Dan for money?\nHe won’t say it outright, and Dan implied he can’t anyway. Help is for the weak.","x":-560,"y":57,"width":250,"height":183,"color":"1"},
 		{"id":"36af4e0d4e582e2c","type":"text","text":"Blackmail someone for money?\nCould be something. Maybe Dan is in on it.","x":-560,"y":300,"width":250,"height":160,"color":"3"},
 		{"id":"788c17d04ff8b560","type":"text","text":"Steal?\nPossible. ","x":100,"y":-120,"width":250,"height":80,"color":"3"},
 		{"id":"b29c777765c1771b","type":"text","text":"Assassinate someone for money?\n\nNo, because he doesn’t want to draw his sword. \n","x":100,"y":60,"width":250,"height":180,"color":"1"},
-		{"id":"a42face6fe65105c","type":"text","text":"Marry into royalty?\n\nFunny, but far-fetched.","x":-235,"y":300,"width":250,"height":120,"color":"1"}
+		{"id":"a42face6fe65105c","type":"text","text":"Marry into royalty?\n\nFunny, but far-fetched.","x":-235,"y":89,"width":250,"height":120,"color":"1"},
+		{"id":"f33e31a101046d82","x":1148,"y":843,"width":492,"height":257,"type":"text","text":"”The Apology“\n\n- "}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
@@ -16,6 +17,7 @@
 		{"id":"169c7f1a8075b63b","fromNode":"ba29be494e573118","fromSide":"left","toNode":"b0de8ff2e6e72b31","toSide":"top"},
 		{"id":"e66e375a2506602a","fromNode":"ba29be494e573118","fromSide":"right","toNode":"b29c777765c1771b","toSide":"top"},
 		{"id":"9b771a4cb41e969c","fromNode":"ba29be494e573118","fromSide":"left","toNode":"36af4e0d4e582e2c","toSide":"top"},
-		{"id":"c697b89315f1fbea","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"a42face6fe65105c","toSide":"top"}
+		{"id":"c697b89315f1fbea","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"a42face6fe65105c","toSide":"top"},
+		{"id":"2fbae6f21d3df779","fromNode":"94a1ce61688114d7","fromSide":"right","toNode":"f33e31a101046d82","toSide":"left"}
 	]
 }
