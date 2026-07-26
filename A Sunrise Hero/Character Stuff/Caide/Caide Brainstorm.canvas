@@ -11,8 +11,7 @@
 		{"id":"f33e31a101046d82","type":"text","text":"”The Apology“\n\n- Caide admits it was him\n- Not apologetic for doing it, only because it caused Dan harm\n- Dan hijacks his guilt and enlists him into his service","x":120,"y":380,"width":492,"height":257},
 		{"id":"40053f350ce8bc3a","x":680,"y":-369,"width":440,"height":269,"type":"text","text":"Dan & Sigan’s dynamic\n\n- Dan feels unappreciated\n- Sigan sees him as a tool\n- Sigan strings him along with promises of making him a legitimate heir\n- Sigan has an elitist mindset. "},
 		{"id":"3e17369688472485","x":680,"y":240,"width":250,"height":120,"color":"4","type":"text","text":"He takes Dan’s woman after discovering their secret relationship"},
-		{"id":"3581951cb4f0a27d","x":900,"y":2,"width":300,"height":116,"type":"text","text":"Sigan does something terrible"},
-		{"id":"0d799646744c1a5f","x":995,"y":240,"width":250,"height":120,"type":"text","text":""}
+		{"id":"3581951cb4f0a27d","x":900,"y":2,"width":300,"height":116,"type":"text","text":"Sigan does something terrible"}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
