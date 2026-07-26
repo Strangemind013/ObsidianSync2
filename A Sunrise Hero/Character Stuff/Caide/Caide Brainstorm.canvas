@@ -8,10 +8,10 @@
 		{"id":"788c17d04ff8b560","type":"text","text":"Steal?\nPossible. ","x":100,"y":-120,"width":250,"height":80,"color":"3"},
 		{"id":"b29c777765c1771b","type":"text","text":"Assassinate someone for money?\n\nNo, because he doesn’t want to draw his sword. \n","x":100,"y":60,"width":250,"height":180,"color":"1"},
 		{"id":"a42face6fe65105c","type":"text","text":"Marry into royalty?\n\nFunny, but far-fetched.","x":-235,"y":89,"width":250,"height":120,"color":"1"},
-		{"id":"f33e31a101046d82","type":"text","text":"”The Apology“\n\n- Caide admits it was him\n- Not apologetic for doing it, only because it caused Dan harm\n- Dan hijacks his guilt and enlists him into his service","x":120,"y":380,"width":492,"height":257},
 		{"id":"40053f350ce8bc3a","x":680,"y":-369,"width":440,"height":269,"type":"text","text":"Dan & Sigan’s dynamic\n\n- Dan feels unappreciated\n- Sigan sees him as a tool\n- Sigan strings him along with promises of making him a legitimate heir\n- Sigan has an elitist mindset. "},
-		{"id":"3e17369688472485","x":680,"y":240,"width":250,"height":120,"color":"4","type":"text","text":"He takes Dan’s woman after discovering their secret relationship"},
-		{"id":"3581951cb4f0a27d","x":900,"y":2,"width":300,"height":116,"type":"text","text":"Sigan does something terrible"}
+		{"id":"f33e31a101046d82","type":"text","text":"”The Apology“\n\n- Caide admits it was him\n- Not apologetic for doing it, only because it caused Dan harm\n- Dan hijacks his guilt and enlists him into his service","x":-200,"y":300,"width":492,"height":257},
+		{"id":"3581951cb4f0a27d","x":750,"y":-40,"width":300,"height":116,"type":"text","text":"Sigan does something terrible"},
+		{"id":"3e17369688472485","x":775,"y":144,"width":250,"height":131,"color":"4","type":"text","text":"He takes Dan’s woman after discovering their secret relationship"}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
@@ -22,6 +22,7 @@
 		{"id":"9b771a4cb41e969c","fromNode":"ba29be494e573118","fromSide":"left","toNode":"36af4e0d4e582e2c","toSide":"top"},
 		{"id":"c697b89315f1fbea","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"a42face6fe65105c","toSide":"top"},
 		{"id":"2fbae6f21d3df779","fromNode":"94a1ce61688114d7","fromSide":"right","toNode":"f33e31a101046d82","toSide":"left"},
-		{"id":"a0a87e95098c073a","fromNode":"3581951cb4f0a27d","fromSide":"bottom","toNode":"3e17369688472485","toSide":"top"}
+		{"id":"a0a87e95098c073a","fromNode":"3581951cb4f0a27d","fromSide":"bottom","toNode":"3e17369688472485","toSide":"top"},
+		{"id":"99bd03429c0d393a","fromNode":"40053f350ce8bc3a","fromSide":"bottom","toNode":"3581951cb4f0a27d","toSide":"top"}
 	]
 }
