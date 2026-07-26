@@ -8,7 +8,8 @@
 		{"id":"788c17d04ff8b560","type":"text","text":"Steal?\nPossible. ","x":100,"y":-120,"width":250,"height":80,"color":"3"},
 		{"id":"b29c777765c1771b","type":"text","text":"Assassinate someone for money?\n\nNo, because he doesn’t want to draw his sword. \n","x":100,"y":60,"width":250,"height":180,"color":"1"},
 		{"id":"a42face6fe65105c","type":"text","text":"Marry into royalty?\n\nFunny, but far-fetched.","x":-235,"y":89,"width":250,"height":120,"color":"1"},
-		{"id":"f33e31a101046d82","x":120,"y":380,"width":492,"height":257,"type":"text","text":"”The Apology“\n\n- Caide admits it was him\n- Not apologetic for doing it, only because it caused Dan harm\n- Dan hijacks his guilt and enlists him into his service"}
+		{"id":"f33e31a101046d82","type":"text","text":"”The Apology“\n\n- Caide admits it was him\n- Not apologetic for doing it, only because it caused Dan harm\n- Dan hijacks his guilt and enlists him into his service","x":120,"y":380,"width":492,"height":257},
+		{"id":"40053f350ce8bc3a","x":680,"y":-369,"width":250,"height":129,"type":"text","text":"Dan & Sigan’s dynamic"}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
