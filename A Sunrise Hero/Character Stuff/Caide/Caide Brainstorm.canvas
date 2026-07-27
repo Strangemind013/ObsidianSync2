@@ -12,11 +12,11 @@
 		{"id":"40053f350ce8bc3a","type":"text","text":"Dan & Sigan’s dynamic\n\n- Dan feels unappreciated\n- Sigan sees him as a tool\n- Sigan strings him along with promises of making him a legitimate heir\n- Sigan has an elitist mindset. ","x":540,"y":-369,"width":440,"height":269,"color":"6"},
 		{"id":"3581951cb4f0a27d","type":"text","text":"Sigan does something terrible","x":610,"y":-40,"width":300,"height":116},
 		{"id":"3e17369688472485","type":"text","text":"He takes Dan’s woman after discovering their secret relationship","x":635,"y":144,"width":250,"height":131,"color":"4"},
-		{"id":"1e5fa6b8a4a57e62","x":1200,"y":-369,"width":440,"height":229,"type":"text","text":"Caide and Batch’s dynamic\n- Dan instructed Batch to oppose Caide at every turn (Every hero needs a villain)\n- Batch gets to a point where he truly believes in what Caide is doing and doesn’t want to harrass him anymore"},
-		{"id":"aa17306cb7021206","x":1295,"y":-81,"width":250,"height":123,"type":"text","text":"What is Batch’s angle of attack?"},
-		{"id":"6ee11008f057849f","x":1045,"y":93,"width":250,"height":117,"color":"4","type":"text","text":"Calling out Caide for being ‘lazy’ and not being physically involved"},
-		{"id":"a863aff2cce9b8fd","type":"text","text":"Caide won’t reveal that he has only one hand","x":1045,"y":263,"width":250,"height":117},
-		{"id":"14a9bd00549bc26d","type":"text","text":"He fights batch so he doesn’t lose authority over the others","x":1045,"y":429,"width":250,"height":117}
+		{"id":"1e5fa6b8a4a57e62","x":1200,"y":-369,"width":440,"height":249,"type":"text","text":"Caide and Batch’s dynamic\n- Dan instructed Batch to oppose Caide at every turn (Every hero needs a villain)\n- Batch gets to a point where he truly believes in what Caide is doing and doesn’t want to harrass him anymore"},
+		{"id":"aa17306cb7021206","x":1295,"y":-50,"width":250,"height":123,"type":"text","text":"What is Batch’s angle of attack?"},
+		{"id":"6ee11008f057849f","x":1045,"y":149,"width":250,"height":117,"color":"4","type":"text","text":"Calling out Caide for being ‘lazy’ and not being physically involved"},
+		{"id":"a863aff2cce9b8fd","type":"text","text":"Caide won’t reveal that he has only one hand","x":1045,"y":319,"width":250,"height":117},
+		{"id":"14a9bd00549bc26d","type":"text","text":"He fights batch so he doesn’t lose authority over the others","x":1045,"y":485,"width":250,"height":117}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
