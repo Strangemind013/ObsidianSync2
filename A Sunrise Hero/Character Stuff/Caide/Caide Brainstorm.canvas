@@ -18,8 +18,8 @@
 		{"id":"14a9bd00549bc26d","type":"text","text":"He fights Batch so he doesn’t lose authority over the others","x":1200,"y":611,"width":250,"height":117},
 		{"id":"1e5fa6b8a4a57e62","type":"text","text":"Caide and Batch’s dynamic\n- Dan instructed Batch to oppose Caide at every turn (Every hero needs a villain)\n- Batch gets to a point where he truly believes in what Caide is doing and doesn’t want to harrass him anymore","x":1420,"y":-369,"width":440,"height":329},
 		{"id":"aa17306cb7021206","type":"text","text":"What is Batch’s angle of attack?","x":1200,"y":76,"width":250,"height":123},
-		{"id":"2d557ad5f5099282","type":"text","text":"What similarity could Caide and Batch share?","x":1820,"y":76,"width":250,"height":123},
-		{"id":"8b143438bc419d6c","type":"text","text":"","x":1640,"y":275,"width":250,"height":117}
+		{"id":"8b143438bc419d6c","type":"text","text":"","x":1640,"y":275,"width":250,"height":117},
+		{"id":"2d557ad5f5099282","type":"text","text":"What similarity could Caide and Batch share?","x":1640,"y":76,"width":250,"height":123}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
@@ -35,7 +35,7 @@
 		{"id":"5c71b844a706267d","fromNode":"1e5fa6b8a4a57e62","fromSide":"bottom","toNode":"aa17306cb7021206","toSide":"top"},
 		{"id":"947afc97168ec1e9","fromNode":"6ee11008f057849f","fromSide":"bottom","toNode":"a863aff2cce9b8fd","toSide":"top"},
 		{"id":"1eb91368386234e0","fromNode":"a863aff2cce9b8fd","fromSide":"bottom","toNode":"14a9bd00549bc26d","toSide":"top"},
-		{"id":"badf87f37e2503ec","fromNode":"1e5fa6b8a4a57e62","fromSide":"right","toNode":"2d557ad5f5099282","toSide":"top"},
-		{"id":"2447afb50c5d1327","fromNode":"aa17306cb7021206","fromSide":"bottom","toNode":"6ee11008f057849f","toSide":"top"}
+		{"id":"2447afb50c5d1327","fromNode":"aa17306cb7021206","fromSide":"bottom","toNode":"6ee11008f057849f","toSide":"top"},
+		{"id":"da2e6650cbdff227","fromNode":"1e5fa6b8a4a57e62","fromSide":"bottom","toNode":"2d557ad5f5099282","toSide":"top"}
 	]
 }
