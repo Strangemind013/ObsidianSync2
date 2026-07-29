@@ -12,12 +12,12 @@
 		{"id":"40053f350ce8bc3a","type":"text","text":"Dan & Sigan’s dynamic\n\n- Dan feels unappreciated\n- Sigan sees him as a tool\n- Sigan strings him along with promises of making him a legitimate heir\n- Sigan has an elitist mindset. ","x":540,"y":-369,"width":440,"height":269,"color":"6"},
 		{"id":"3581951cb4f0a27d","type":"text","text":"Sigan does something terrible","x":610,"y":-40,"width":300,"height":116},
 		{"id":"3e17369688472485","type":"text","text":"He takes Dan’s woman after discovering their secret relationship","x":635,"y":144,"width":250,"height":131,"color":"4"},
-		{"id":"1e5fa6b8a4a57e62","type":"text","text":"Caide and Batch’s dynamic\n- Dan instructed Batch to oppose Caide at every turn (Every hero needs a villain)\n- Batch gets to a point where he truly believes in what Caide is doing and doesn’t want to harrass him anymore","x":1200,"y":-369,"width":440,"height":249},
-		{"id":"aa17306cb7021206","type":"text","text":"What is Batch’s angle of attack?","x":1295,"y":-50,"width":250,"height":123},
-		{"id":"6ee11008f057849f","type":"text","text":"Calling out Caide for being ‘lazy’ and not being physically involved","x":1045,"y":149,"width":250,"height":117,"color":"4"},
-		{"id":"a863aff2cce9b8fd","type":"text","text":"Caide won’t reveal that he has only one hand","x":1045,"y":319,"width":250,"height":117},
-		{"id":"14a9bd00549bc26d","type":"text","text":"He fights Batch so he doesn’t lose authority over the others","x":1045,"y":485,"width":250,"height":117},
-		{"id":"8a6b604ab8382be4","x":1880,"y":-369,"width":440,"height":329,"type":"text","text":"Dan and Sol’s dynamic:\n- Sol is Dan’s mirror–another dutiful son forced to do the whims of his father\n- While Sol wouldn’t resist, Dan leaves him no choice (He removves Sol’s father from the equation\n- )"}
+		{"id":"1e5fa6b8a4a57e62","type":"text","text":"Caide and Batch’s dynamic\n- Dan instructed Batch to oppose Caide at every turn (Every hero needs a villain)\n- Batch gets to a point where he truly believes in what Caide is doing and doesn’t want to harrass him anymore","x":1200,"y":-369,"width":440,"height":387},
+		{"id":"8a6b604ab8382be4","x":1880,"y":-369,"width":440,"height":329,"type":"text","text":"Dan and Sol’s dynamic:\n- Sol is Dan’s mirror–another dutiful son forced to do the whims of his father\n- While Sol wouldn’t resist, Dan leaves him no choice (He removves Sol’s father from the equation\n- "},
+		{"id":"6ee11008f057849f","type":"text","text":"Calling out Caide for being ‘lazy’ and not being physically involved","x":1045,"y":459,"width":250,"height":117,"color":"4"},
+		{"id":"a863aff2cce9b8fd","type":"text","text":"Caide won’t reveal that he has only one hand","x":1045,"y":629,"width":250,"height":117},
+		{"id":"14a9bd00549bc26d","type":"text","text":"He fights Batch so he doesn’t lose authority over the others","x":1045,"y":795,"width":250,"height":117},
+		{"id":"aa17306cb7021206","type":"text","text":"What is Batch’s angle of attack?","x":1295,"y":260,"width":250,"height":123}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
