@@ -19,7 +19,7 @@
 		{"id":"aa17306cb7021206","type":"text","text":"What is Batch’s angle of attack?","x":1200,"y":76,"width":250,"height":123},
 		{"id":"8b143438bc419d6c","type":"text","text":"Batch is and admirer of heroes and legends","x":1640,"y":275,"width":250,"height":117},
 		{"id":"2d557ad5f5099282","type":"text","text":"What similarity could Caide and Batch share?","x":1640,"y":76,"width":250,"height":123},
-		{"id":"8a6b604ab8382be4","type":"text","text":"Dan and Sol’s dynamic:\n- Sol is Dan’s mirror–another dutiful son forced to do the whims of his father\n- While Sol wouldn’t resist, Dan leaves him no choice (He removves Sol’s father from the equation\n- ","x":2380,"y":-369,"width":440,"height":329}
+		{"id":"8a6b604ab8382be4","type":"text","text":"Dan and Sol’s dynamic:\n- Sol is Dan’s mirror–another dutiful son forced to do the whims of his father\n- While Sol wouldn’t resist, Dan leaves him no choice (He removves Sol’s father from the equation\n- ","x":2160,"y":-369,"width":440,"height":329}
 	],
 	"edges":[
 		{"id":"71864fadddb22254","fromNode":"ba29be494e573118","fromSide":"bottom","toNode":"94a1ce61688114d7","toSide":"top"},
