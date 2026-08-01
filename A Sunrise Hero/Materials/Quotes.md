@@ -51,7 +51,7 @@
 - Nothing is for certain, not until it has already happened. And even then it could just be a lie.
 - And that is all you were? A pair of hands to swing a sword?
 - What is it like, mortal, to reach the end of your existence? To know that the world goes on without you in it? Are you afraid? *Shut up and do it. I’m done being afraid.* Good. Now live.
-- An artist stares at the blank for hours. A musician bleeds his fingers for a haunting harmony. It is a truth that I’ve realized tht it takes a great deal to bring beauty into this world. Explain to me, name, how you do so, effortless, simply by existing.
+- An artist stares at the blank for hours. A musician bleeds his fingers for a haunting harmony. It takes a great deal to bring beauty into this world. Explain to me, name, how you do so, effortless, simply by existing.” “My parents did all the work.”
 - “Of course you do. This isn’t the great secret you think it is.”
 - “The good thing about ‘now,’ is that it can always change. A thousand roads stretching out beneath your feet. Which way do you go, child? Watch your step.”
 - “She will need some time to forgive me. Fortunately, I am blessed with patience.”
@@ -59,4 +59,4 @@
 - “If he’s all that they say he is, then there’s no use. Besides,” Dan said. “I do not run.”
 - “So that’s it, then? You will die for this? You will die to prove a point?” “Among other things.”
 - (Re politicians) I realize now that there are very few intelligent men among them. The rest are simply given the privilege of failing without consequence
-- 
+- “If someone must take up the sword, let it be me.”
