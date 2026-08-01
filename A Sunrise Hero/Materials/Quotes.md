@@ -59,4 +59,4 @@
 - “If he’s all that they say he is, then there’s no use. Besides,” Dan said. “I do not run.”
 - “So that’s it, then? You will die for this? You will die to prove a point?” “Among other things.”
 - (Re politicians) I realize now that there are very few intelligent men among them. The rest are simply given the privilege of failing without consequence
-- “If someone must take up the sword, let it be me.”
+- “Sometimes there is no other course of action but to take up the sword. And if someone has to, let it be me.”
