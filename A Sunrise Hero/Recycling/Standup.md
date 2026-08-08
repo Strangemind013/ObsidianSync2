@@ -1,2 +1,3 @@
 - “Nagpapatawa ka hindi ka naman… *oh.*”
 - Single. “Gusto mo ata mas bata sa’yo eh.” “Oo men, nag iikot-ikot nga ako sa mga day-care eh… kaso ang iingay naman? Iyak ng iyak.”
+- Noong bata ka, kahit pagmumura lang ang punchline sa joke bentang benta na. Kaya din siguro nahalala si Duterte
