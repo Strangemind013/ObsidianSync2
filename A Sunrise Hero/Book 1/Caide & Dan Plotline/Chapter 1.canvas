@@ -1,10 +1,14 @@
 {
 	"nodes":[
-		{"id":"f4851e83961f41a2","x":-669,"y":-299,"width":250,"height":79,"type":"text","text":"What point is this in Dan’s life?"},
-		{"id":"5a16d28ca9a0e650","x":-1040,"y":-160,"width":250,"height":83,"color":"3","type":"text","text":"Comfortable. Safe. Trending up. "},
-		{"id":"f94f5e70003a16d1","type":"text","text":"He has everything he wants.","x":-1040,"y":-40,"width":250,"height":83,"color":"1"},
-		{"id":"7e43e90cd02b5f21","x":-1040,"y":80,"width":250,"height":80,"color":"1","type":"text","text":"He is nothing, and a nobody."},
-		{"id":"a089768969bfc643","x":-1040,"y":200,"width":250,"height":83,"color":"1","type":"text","text":"He is the king of Meroun."}
+		{"id":"f4851e83961f41a2","type":"text","text":"What point is this in Dan’s life?","x":-780,"y":-380,"width":250,"height":79},
+		{"id":"aac801ccbf47c13b","x":-740,"y":-160,"width":250,"height":83,"color":"1","type":"text","text":"He is a beggar."},
+		{"id":"5a16d28ca9a0e650","type":"text","text":"Comfortable. Safe. Trending up. ","x":-1060,"y":-160,"width":250,"height":83,"color":"3"},
+		{"id":"f94f5e70003a16d1","type":"text","text":"He has everything he wants.","x":-1060,"y":-40,"width":250,"height":83,"color":"1"},
+		{"id":"a089768969bfc643","type":"text","text":"He is the king of Meroun.","x":-1060,"y":200,"width":250,"height":83,"color":"1"},
+		{"id":"7e43e90cd02b5f21","type":"text","text":"He is nothing, and a nobody. A commoner.","x":-1060,"y":80,"width":250,"height":80,"color":"1"},
+		{"id":"b1923dcc0f4a6d2a","x":-740,"y":-40,"width":250,"height":260,"color":"4","type":"text","text":"He is in a good spot, good enough for most people. But not for him. He is ambitious, and wants to be nobility, to deserve the woman he’s seeing (a princess-ish)"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"}
+	]
 }
