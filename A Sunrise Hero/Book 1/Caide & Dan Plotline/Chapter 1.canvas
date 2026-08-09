@@ -11,12 +11,14 @@
 		{"id":"7e43e90cd02b5f21","type":"text","text":"He is nothing, and a nobody. A commoner.","x":-1700,"y":-20,"width":250,"height":80,"color":"1"},
 		{"id":"a089768969bfc643","type":"text","text":"He is the king of Meroun.","x":-1700,"y":100,"width":250,"height":83,"color":"1"},
 		{"id":"5a16d28ca9a0e650","type":"text","text":"Comfortable. Safe. Trending up. ","x":-1700,"y":-260,"width":250,"height":83,"color":"3"},
-		{"id":"f94f5e70003a16d1","type":"text","text":"He has everything he wants.","x":-1700,"y":-140,"width":250,"height":83,"color":"1"}
+		{"id":"f94f5e70003a16d1","type":"text","text":"He has everything he wants.","x":-1700,"y":-140,"width":250,"height":83,"color":"1"},
+		{"id":"3dec97380430b2a4","x":-1380,"y":1060,"width":250,"height":160,"type":"text","text":"Let’s do something that immediately portrays his low station to establish his primary motivation."}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
 		{"id":"7502b140ebbae771","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"5a16d28ca9a0e650","toSide":"top"},
 		{"id":"596ec1b0a44356a1","fromNode":"5a16d28ca9a0e650","fromSide":"bottom","toNode":"a089768969bfc643","toSide":"top"},
-		{"id":"bd7764b053b79ffa","fromNode":"b1923dcc0f4a6d2a","fromSide":"bottom","toNode":"afd01e1afdb0e3b5","toSide":"top"}
+		{"id":"bd7764b053b79ffa","fromNode":"b1923dcc0f4a6d2a","fromSide":"bottom","toNode":"afd01e1afdb0e3b5","toSide":"top"},
+		{"id":"9365f3ebf3ed7f05","fromNode":"afd01e1afdb0e3b5","fromSide":"bottom","toNode":"3dec97380430b2a4","toSide":"top"}
 	]
 }
