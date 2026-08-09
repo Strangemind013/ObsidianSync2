@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f4851e83961f41a2","x":-669,"y":-299,"width":250,"height":79,"type":"text","text":"What point is this in Dan’s life?"},
+		{"id":"5a16d28ca9a0e650","x":-1040,"y":-160,"width":250,"height":83,"color":"3","type":"text","text":"Comfortable. Safe. Trending up. "},
+		{"id":"f94f5e70003a16d1","type":"text","text":"He has everything he wants.","x":-1040,"y":-40,"width":250,"height":83,"color":"1"},
+		{"id":"7e43e90cd02b5f21","x":-1040,"y":80,"width":250,"height":80,"color":"1","type":"text","text":"He is nothing, and a nobody."},
+		{"id":"a089768969bfc643","x":-1040,"y":200,"width":250,"height":83,"color":"1","type":"text","text":"He is the king of Meroun."}
+	],
+	"edges":[]
+}
