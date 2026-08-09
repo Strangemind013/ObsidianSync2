@@ -11,4 +11,4 @@ He probably should, but Caide had that look on him now. A kind of fiery life in 
 
 "I am," Sol said, with a well-hidden sorrow. "Always. But more so, sir, with what he'd do next."
 
-*Sir,* *he said.* Like they were equals. Like he wasn't three lifetimes beneath his station. Like there was something worth respecting about him. He wanted to believe that. In fact, he almost did.
+*Sir,* *he said.* Like they were equals. Like he wasn't three lifetimes beneath his station. Like there was something worth respecting about him. Dan almost believed it, almost deluded himself.
