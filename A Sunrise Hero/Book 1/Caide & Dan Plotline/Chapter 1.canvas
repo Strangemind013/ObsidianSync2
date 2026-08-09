@@ -8,7 +8,9 @@
 		{"id":"b1923dcc0f4a6d2a","type":"text","text":"Dan is in a good spot, good enough for most people. He is the adopted (unofficial) son of a childless minister. (Minister Ama)\n\n\nThis isn’t enough. He isn’t necessarily ambitious, but he wants to be nobility to deserve and marry the woman he’s seeing (a princess of sorts)","x":-1380,"y":-140,"width":250,"height":390,"color":"4"},
 		{"id":"f4851e83961f41a2","type":"text","text":"What point is this in Dan’s life?","x":-1450,"y":-440,"width":250,"height":79},
 		{"id":"afd01e1afdb0e3b5","type":"text","text":"How do I best start this?","x":-1380,"y":380,"width":250,"height":60},
-		{"id":"e196624f1fe033ea","x":-1380,"y":500,"width":250,"height":100,"type":"text","text":""}
+		{"id":"e196624f1fe033ea","x":-1700,"y":500,"width":250,"height":220,"color":"3","type":"text","text":"Dan in the middle of planning an event for Minister Ama. Likely his name-day. Dan is hard at work, and shows his ability and station."},
+		{"id":"f2c9c451012f5c6e","x":-1380,"y":500,"width":250,"height":340,"color":"3","type":"text","text":"Dan gets exiled right from the jump?\n\nOn one hand, this gets things rolling immediately. On the other, it might feel rushed, and we don’t get time to establish the status quo before we break it."},
+		{"id":"968f8e0133082427","x":-1060,"y":504,"width":250,"height":316,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
