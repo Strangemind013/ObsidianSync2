@@ -15,8 +15,9 @@
 		{"id":"3dec97380430b2a4","type":"text","text":"Let’s do something that immediately portrays his low station to establish his primary motivation.","x":-1380,"y":1060,"width":250,"height":160},
 		{"id":"efd1b87664561535","type":"text","text":"“The city of Meroun will starve to death, and no else one dared admit it.”","x":-1380,"y":1280,"width":250,"height":120},
 		{"id":"6d0d4350f273194f","x":-1380,"y":1460,"width":250,"height":120,"type":"text","text":"Dan is negotiating with a minister about something. What could it be?"},
-		{"id":"5079ecd624f16089","x":-1630,"y":1740,"width":250,"height":60,"type":"text","text":"Rice importation"},
-		{"id":"1e6b9faf935c68aa","x":-1310,"y":1740,"width":250,"height":60,"type":"text","text":"Use of warehouses"}
+		{"id":"5079ecd624f16089","x":-1630,"y":1740,"width":250,"height":60,"color":"3","type":"text","text":"Rice importation"},
+		{"id":"1e6b9faf935c68aa","x":-1310,"y":1740,"width":250,"height":60,"color":"3","type":"text","text":"Use of warehouses"},
+		{"id":"263021cf417a1022","x":-1630,"y":1840,"width":250,"height":60,"color":"1","type":"text","text":"Marriage w/ his daughter"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
@@ -25,6 +26,7 @@
 		{"id":"bd7764b053b79ffa","fromNode":"b1923dcc0f4a6d2a","fromSide":"bottom","toNode":"afd01e1afdb0e3b5","toSide":"top"},
 		{"id":"9365f3ebf3ed7f05","fromNode":"afd01e1afdb0e3b5","fromSide":"bottom","toNode":"3dec97380430b2a4","toSide":"top"},
 		{"id":"872085670ebbadb3","fromNode":"6d0d4350f273194f","fromSide":"bottom","toNode":"5079ecd624f16089","toSide":"top"},
-		{"id":"57057d02757dd1d0","fromNode":"6d0d4350f273194f","fromSide":"bottom","toNode":"1e6b9faf935c68aa","toSide":"top"}
+		{"id":"57057d02757dd1d0","fromNode":"6d0d4350f273194f","fromSide":"bottom","toNode":"1e6b9faf935c68aa","toSide":"top"},
+		{"id":"371923161268f757","fromNode":"6d0d4350f273194f","fromSide":"bottom","toNode":"263021cf417a1022","toSide":"top"}
 	]
 }
