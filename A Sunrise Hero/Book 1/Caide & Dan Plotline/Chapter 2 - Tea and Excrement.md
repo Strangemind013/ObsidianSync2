@@ -1,6 +1,6 @@
-- Dan wants good soup from a dumpling place
 
-Only an idiot would wear a cloak in this heat. Under the blazing sun, sure, but Caide was just sitting in a small teahouse–and he was sweating like the last cow in a famine. His spit thickened from the fragrance of jasmine, the sharp tang of soy sauce, and the savory aroma of steamed pork. Still, he decided he wouldn’t partake. A penance, of sorts.
+
+Only an idiot would wear a cloak in this heat. Under the blazing sun, sure, but Caide was just sitting in a small teahouse–and he was sweating like the last cow in a famine. His spit thickened from the fragrance of jasmine, the sharp tang of soy sauce, and the savory aroma of steamed pork. 
 
 He didn’t regret his choice of garment half as much as his choice of company. Not very wise to still be around someone he’d just betrayed. More so to still work for him. Even more so to still be his friend.
 
