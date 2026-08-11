@@ -54,10 +54,6 @@ Dan contemplates how funny it is that he’s doing all this work for an event he
 The people he deals with address him as 
 
 
-- - - 
-Dan
+- - -
 
-
-
-
-
+The city of Meroun will starve to death, and no one else dared admit it. 
