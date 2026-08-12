@@ -15,9 +15,10 @@
 		{"id":"3dec97380430b2a4","type":"text","text":"Let’s do something that immediately portrays his low station to establish his primary motivation.","x":-1380,"y":1060,"width":250,"height":160},
 		{"id":"efd1b87664561535","type":"text","text":"“The city of Meroun will starve to death, and no else dared admit it.”","x":-1380,"y":1280,"width":250,"height":120},
 		{"id":"6d0d4350f273194f","type":"text","text":"Dan is negotiating with a minister about something. What could it be?","x":-1380,"y":1460,"width":250,"height":120},
-		{"id":"5079ecd624f16089","type":"text","text":"Rice importation","x":-1630,"y":1740,"width":250,"height":60,"color":"3"},
-		{"id":"1e6b9faf935c68aa","type":"text","text":"Use of warehouses","x":-1310,"y":1740,"width":250,"height":60,"color":"3"},
-		{"id":"263021cf417a1022","type":"text","text":"Marriage w/ his daughter","x":-1630,"y":1840,"width":250,"height":60,"color":"1"}
+		{"id":"5079ecd624f16089","type":"text","text":"Rice importation","x":-1540,"y":1740,"width":250,"height":60,"color":"3"},
+		{"id":"1e6b9faf935c68aa","type":"text","text":"Use of warehouses","x":-1220,"y":1740,"width":250,"height":60,"color":"3"},
+		{"id":"263021cf417a1022","type":"text","text":"Marriage w/ his daughter","x":-1540,"y":1840,"width":250,"height":60,"color":"1"},
+		{"id":"588b1375ae3f5f4f","x":-1220,"y":1840,"width":250,"height":60,"color":"3","type":"text","text":"Money"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
