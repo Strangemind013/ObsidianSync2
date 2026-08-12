@@ -13,11 +13,11 @@
 		{"id":"5a16d28ca9a0e650","type":"text","text":"Comfortable. Safe. Trending up. ","x":-1700,"y":-260,"width":250,"height":83,"color":"3"},
 		{"id":"f94f5e70003a16d1","type":"text","text":"He has everything he wants.","x":-1700,"y":-140,"width":250,"height":83,"color":"1"},
 		{"id":"3dec97380430b2a4","type":"text","text":"Let’s do something that immediately portrays his low station to establish his primary motivation.","x":-1380,"y":1060,"width":250,"height":160},
-		{"id":"efd1b87664561535","type":"text","text":"“The city of Meroun will starve to death, and no else one dared admit it.”","x":-1380,"y":1280,"width":250,"height":120},
-		{"id":"6d0d4350f273194f","x":-1380,"y":1460,"width":250,"height":120,"type":"text","text":"Dan is negotiating with a minister about something. What could it be?"},
-		{"id":"5079ecd624f16089","x":-1630,"y":1740,"width":250,"height":60,"color":"3","type":"text","text":"Rice importation"},
-		{"id":"1e6b9faf935c68aa","x":-1310,"y":1740,"width":250,"height":60,"color":"3","type":"text","text":"Use of warehouses"},
-		{"id":"263021cf417a1022","x":-1630,"y":1840,"width":250,"height":60,"color":"1","type":"text","text":"Marriage w/ his daughter"}
+		{"id":"efd1b87664561535","type":"text","text":"“The city of Meroun will starve to death, and no else dared admit it.”","x":-1380,"y":1280,"width":250,"height":120},
+		{"id":"6d0d4350f273194f","type":"text","text":"Dan is negotiating with a minister about something. What could it be?","x":-1380,"y":1460,"width":250,"height":120},
+		{"id":"5079ecd624f16089","type":"text","text":"Rice importation","x":-1630,"y":1740,"width":250,"height":60,"color":"3"},
+		{"id":"1e6b9faf935c68aa","type":"text","text":"Use of warehouses","x":-1310,"y":1740,"width":250,"height":60,"color":"3"},
+		{"id":"263021cf417a1022","type":"text","text":"Marriage w/ his daughter","x":-1630,"y":1840,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
