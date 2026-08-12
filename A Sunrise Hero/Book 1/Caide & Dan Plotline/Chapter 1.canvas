@@ -18,7 +18,8 @@
 		{"id":"5079ecd624f16089","type":"text","text":"Rice importation","x":-1540,"y":1740,"width":250,"height":60,"color":"3"},
 		{"id":"1e6b9faf935c68aa","type":"text","text":"Use of warehouses","x":-1220,"y":1740,"width":250,"height":60,"color":"3"},
 		{"id":"263021cf417a1022","type":"text","text":"Marriage w/ his daughter","x":-1540,"y":1840,"width":250,"height":60,"color":"1"},
-		{"id":"588b1375ae3f5f4f","x":-1220,"y":1840,"width":250,"height":60,"color":"3","type":"text","text":"Money"}
+		{"id":"588b1375ae3f5f4f","x":-1220,"y":1840,"width":250,"height":60,"color":"3","type":"text","text":"Money"},
+		{"id":"234946894f25b74d","x":-1540,"y":1940,"width":250,"height":60,"type":"text","text":"Something political"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
