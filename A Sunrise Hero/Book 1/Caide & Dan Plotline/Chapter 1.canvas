@@ -21,7 +21,9 @@
 		{"id":"588b1375ae3f5f4f","type":"text","text":"Money","x":-1220,"y":1840,"width":250,"height":60,"color":"3"},
 		{"id":"234946894f25b74d","type":"text","text":"Something political","x":-1540,"y":1940,"width":250,"height":60,"color":"3"},
 		{"id":"fce9fe1c70cc2e2d","x":-1380,"y":2120,"width":250,"height":60,"type":"text","text":"What is their conflict?"},
-		{"id":"628c0e9defe96aa4","x":-1380,"y":2249,"width":250,"height":111,"type":"text","text":"Minister doesn’t respect Dan because he is of low birth"}
+		{"id":"628c0e9defe96aa4","x":-1380,"y":2249,"width":250,"height":151,"type":"text","text":"Minister doesn’t respect Dan because he is of low birth. He isn’t subtle about this, unlike others"},
+		{"id":"193084833ecdb71a","x":-1380,"y":2460,"width":250,"height":60,"type":"text","text":"How does Dan respond to this?"},
+		{"id":"235834252a212751","x":-1380,"y":2656,"width":250,"height":144,"type":"text","text":"He doesn’t retaliate or show negative emotion. Instead he offers help. To fix one of his problems."}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
@@ -33,6 +35,8 @@
 		{"id":"57057d02757dd1d0","fromNode":"6d0d4350f273194f","fromSide":"bottom","toNode":"1e6b9faf935c68aa","toSide":"top"},
 		{"id":"371923161268f757","fromNode":"6d0d4350f273194f","fromSide":"bottom","toNode":"263021cf417a1022","toSide":"top"},
 		{"id":"1233e98889aa5c0f","fromNode":"6d0d4350f273194f","fromSide":"bottom","toNode":"fce9fe1c70cc2e2d","toSide":"top"},
-		{"id":"625df6988566280b","fromNode":"fce9fe1c70cc2e2d","fromSide":"bottom","toNode":"628c0e9defe96aa4","toSide":"top"}
+		{"id":"625df6988566280b","fromNode":"fce9fe1c70cc2e2d","fromSide":"bottom","toNode":"628c0e9defe96aa4","toSide":"top"},
+		{"id":"c1ed7b3b1b353819","fromNode":"628c0e9defe96aa4","fromSide":"bottom","toNode":"193084833ecdb71a","toSide":"top"},
+		{"id":"dd6d29efeff4f5b4","fromNode":"193084833ecdb71a","fromSide":"bottom","toNode":"235834252a212751","toSide":"top"}
 	]
 }
