@@ -10,7 +10,7 @@ The rest of the prisoners around him yelled themselves hoarse into their gags. H
 
 “Stand over there,” another voice said calmly. 
 
-After a some time, they got to Sweet-tooth. Rough hands grabbed him by the shoulders and sat him upright, feet dangling off the edge of the cart bed. The bag on his head slid off and he squinted at the blinding torchlight, eyes watering. Wrists still bound, he pulled off his gag awkwardly and breathed in a lungful of cool, night air. 
+After some time, they got to Sweet-tooth. Rough hands grabbed him by the shoulders and sat him upright, feet dangling off the edge of the cart bed. The bag on his head slid off and he squinted at the blinding torchlight, eyes watering. Wrists still bound, he pulled off his gag awkwardly and breathed in a lungful of cool, night air. 
 
 A burly, tan-skinned man with a friendly face came into view. He had a knife out but didn’t use it, instead choosing to untie Sweet-tooth’s wrist with deft fingers. 
 
@@ -54,9 +54,17 @@ Didn’t it seem all too convenient? He wouldn’t put it past his father to set
 
 “I wish I was, my good man,” Dan said. “But the city’s been under siege, so to speak. Half the fields burned down before harvest, and I don’t know about you, but I’m not eating ash for lunch.”
 
+“Surely we can import? Virani upstream is almost always at a surplus.” Pung piped up, much to everyone’s surprise.
+
+Tight-robe nodded, his half-smile somewhere between surprise and
+
 “Trade?”
 
-“Bandits, or something worse. Caravans haven’t reached Meroun with all its wheels intact since the start of summer.” Tight-robe sighed as he put his hands on his hips. “Simply put, we’re backed into a corner. It gets any worse and the city will eat itself.”
+“Bandits.”
+
+“Fuck.”
+
+“Fuck is right.” Tight-robe sighed as he put his hands on his hips. “We’re backed into a corner, gentlemen. It gets any worse and the city will eat itself.”
 
 Crow raised an eyebrow. “All because of some fires?”
 
