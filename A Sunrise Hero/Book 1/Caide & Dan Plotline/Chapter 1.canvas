@@ -25,7 +25,8 @@
 		{"id":"193084833ecdb71a","type":"text","text":"How does Dan respond to this?","x":-1380,"y":2411,"width":250,"height":80},
 		{"id":"235834252a212751","type":"text","text":"He doesn’t retaliate or show negative emotion. Instead he offers help. To fix one of his problems.","x":-1380,"y":2531,"width":250,"height":144},
 		{"id":"1ef6d164347607ca","x":-1380,"y":2711,"width":250,"height":60,"type":"text","text":"What problem?"},
-		{"id":"0d0dac4163d329ff","x":-1380,"y":2811,"width":250,"height":100,"type":"text","text":"His son is missing. Leaving him without an heir."}
+		{"id":"0d0dac4163d329ff","x":-1380,"y":2811,"width":250,"height":89,"type":"text","text":"His son is missing. Leaving him without an heir."},
+		{"id":"6a014efdb44b47d7","x":-1380,"y":2960,"width":250,"height":120,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
@@ -41,6 +42,7 @@
 		{"id":"c1ed7b3b1b353819","fromNode":"628c0e9defe96aa4","fromSide":"bottom","toNode":"193084833ecdb71a","toSide":"top"},
 		{"id":"dd6d29efeff4f5b4","fromNode":"193084833ecdb71a","fromSide":"bottom","toNode":"235834252a212751","toSide":"top"},
 		{"id":"9557058a8262b299","fromNode":"235834252a212751","fromSide":"bottom","toNode":"1ef6d164347607ca","toSide":"top"},
-		{"id":"d20db1ad852d98ce","fromNode":"1ef6d164347607ca","fromSide":"bottom","toNode":"0d0dac4163d329ff","toSide":"top"}
+		{"id":"d20db1ad852d98ce","fromNode":"1ef6d164347607ca","fromSide":"bottom","toNode":"0d0dac4163d329ff","toSide":"top"},
+		{"id":"a2d5da2a103a6106","fromNode":"0d0dac4163d329ff","fromSide":"bottom","toNode":"6a014efdb44b47d7","toSide":"top"}
 	]
 }
