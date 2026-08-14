@@ -1,4 +1,4 @@
-Sweet-tooth never had any doubt that his father would send for him. A month too late, perhaps, but still very welcome. *Minister Sung* had always been stubborn like that. Ever-devoted to his honor, even if it meant leaving his only son to rot in prison. Sweet-tooth didn’t dare complain, though. Anything was better than being stuck in this shithole. *Shithole.* A new word he’d learned shortly after he arrived. The inmates at Sadampo prison had immeasurably contributed to the expansion of his vocabulary. Swearwords, mostly.
+Sweet-tooth never had any doubt that his father would send for him. A month too late, perhaps, but still very welcome. *Minister Sung* had always been stubborn like that. Ever-devoted to his honor, even if it meant leaving his only son to rot in prison. Sweet-tooth didn’t dare complain, though. Anything was better than being stuck in this shithole. He chuckled. *Shithole.* A new word he’d learned shortly after he arrived. The inmates at Sadampo prison had immeasurably contributed to the expansion of his vocabulary. Swearwords, mostly.
 
 They came in the dead of night, scaring Sweet-tooth stiff as he awoke to grabbing hands. His lack of any significant resistance wasn’t out of cowardice, of course. They just took him by surprise. Still, he whimpered and moaned as they put a bag over his head, gagged him, tied his hands and feet, and dragged him a considerable distance away from his cell. He heard soft grunts as he was heaved into a cart among other wriggling bodies.
 
@@ -88,7 +88,7 @@ Sweet-tooth let out a sigh. Of all the inmates to bring, why him? Had he really 
 
 Dan shrugged. “Sure. It’s worth a try. But that line of thinking, Ba-chen, son of Ba-tan, already cost you six years of your life. I suggest not throwing away the rest of it.”
 
-Batch scowled and looked like he might lunge at the fat man, but something stirred in the shadows. The Cloak-fellow stepped forward, the hand not hidden by his cloak reaching for his sword. They glared at each other for a moment, but otherwise relaxed when Batch shrugged and held up his hands. “Whatever you say...”
+Batch scowled and looked like he might lunge at the fat man, but something stirred in the shadows. The Cloak-fellow stepped forward, reaching for his sword. They glared at each other for a moment, but otherwise relaxed when Batch shrugged and held up his hands. “Whatever you say...”
 
 “As it so happens,” Dan continued. “I am fond of giving second chances. Here’s yours. It would be wise of you to take it.”
 
