@@ -22,10 +22,10 @@
 		{"id":"234946894f25b74d","type":"text","text":"Something political","x":-1540,"y":1940,"width":250,"height":60,"color":"3"},
 		{"id":"fce9fe1c70cc2e2d","type":"text","text":"What is their conflict?","x":-1380,"y":2120,"width":250,"height":60},
 		{"id":"628c0e9defe96aa4","type":"text","text":"Minister doesn’t respect Dan because he is of low birth. He isn’t subtle about this, unlike others","x":-1380,"y":2249,"width":250,"height":151},
-		{"id":"193084833ecdb71a","type":"text","text":"How does Dan respond to this?","x":-1380,"y":2460,"width":250,"height":60},
-		{"id":"235834252a212751","type":"text","text":"He doesn’t retaliate or show negative emotion. Instead he offers help. To fix one of his problems.","x":-1380,"y":2580,"width":250,"height":144},
-		{"id":"1ef6d164347607ca","x":-1380,"y":2780,"width":250,"height":60,"type":"text","text":"What problem?"},
-		{"id":"0d0dac4163d329ff","x":-1580,"y":2960,"width":250,"height":60,"type":"text","text":"His son is missing."}
+		{"id":"193084833ecdb71a","type":"text","text":"How does Dan respond to this?","x":-1380,"y":2440,"width":250,"height":80},
+		{"id":"235834252a212751","type":"text","text":"He doesn’t retaliate or show negative emotion. Instead he offers help. To fix one of his problems.","x":-1380,"y":2560,"width":250,"height":144},
+		{"id":"1ef6d164347607ca","x":-1380,"y":2740,"width":250,"height":60,"type":"text","text":"What problem?"},
+		{"id":"0d0dac4163d329ff","x":-1380,"y":2840,"width":250,"height":100,"type":"text","text":"His son is missing. Leaving him without an heir."}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
