@@ -52,7 +52,11 @@ Didn’t it seem all too convenient? He wouldn’t put it past his father to set
 
 “Are you fucking with us?” Crow asked, rubbing the dark circles under his eyes and stifling a yawn. Poor bastard’s been plagued with nightmares, mostly ending with him screaming himself awake, and everyone else besides. Hence the name. Crow–the one who squawks at night.
 
-“I wish I was, my good man,” Dan said. “But the city’s been under siege, so to speak. Half the fields burned down before harvest, and I don’t know about you, but I’m not eating ash for lunch. Now, I know what you’re thinking--unfortunately, maintaining supply lines had been difficult at best. The trade routes inland are plagued by banditry, and someone’s been setting fire to merchant ships that grace our port.” He sighed as he put his hands on his hips. “Simply put, we’re backed into a corner. It gets any worse and the city will eat itself.”
+“I wish I was, my good man,” Dan said. “But the city’s been under siege, so to speak. Half the fields burned down before harvest, and I don’t know about you, but I’m not eating ash for lunch.”
+
+“Trade?”
+
+“Bandits, or something worse. Caravans haven’t reached Meroun with all its wheels intact since the start of summer.” Tight-robe sighed as he put his hands on his hips. “Simply put, we’re backed into a corner. It gets any worse and the city will eat itself.”
 
 Crow raised an eyebrow. “All because of some fires?”
 
@@ -66,7 +70,7 @@ Sweet-tooth looked down on his untrimmed toenails, shifting uneasily. He could l
 
 “Why us?” asked Batch, a sneering bastard with a talent for pissing people off. 
 
-“Because,” Dan said, “I believe you are innocent. As far as I could tell, at least. I’ve looked into each of your cases, and then some. All I saw was poor circumstance, bad timing. Maybe someone’s out to get you, or needed someone to blame. Either way, your guilt was decided... rather unfairly, I think.”
+“Because,” Dan said, “I believe you are innocent. As far as I could tell, at least. I’ve looked into each of your files, and then some. All I saw was poor circumstance, bad timing. Maybe someone’s out to get you, or needed someone to blame. Either way, your guilt was decided... rather unfairly, I think.”
 
 *Was it, though?* Sweet-tooth *had* been neck-deep in gambling debts. There was no denying it. What was unfair, however, was that his father refused to do anything. He just stood by as they dragged his son away. Where was the honor in that?
 
@@ -74,7 +78,7 @@ Pung scratched his chin with a puzzled look. “I’m sorry, Young Master, but I
 
 “Yes,” Dan chuckled. He had to crane his nonexistent neck and look up at Pung to even meet his eye. “But I’m willing to overlook a little tax fraud for a man of your physical gifts. Look at you. You look like you could uproot a tree with your bare hands.”
 
-Pung nodded thoughtfully. “I see...”
+Pung nodded thoughtfully. “I haven’t tried that, but maybe...”
 
 Sweet-tooth should probably say something as well, but decided against it. What would admitting his guilt even accomplish? Besides, he wasn’t–
 
@@ -84,7 +88,7 @@ Sweet-tooth let out a sigh. Of all the inmates to bring, why him? Had he really 
 
 Dan shrugged. “Sure. It’s worth a try. But that line of thinking, Ba-chen, son of Ba-tan, already cost you six years of your life. I suggest not throwing away the rest of it.”
 
-Batch scowled and looked like he might lunge at the fat man, but something stirred in the shadows. Cloakey stepped forward, the hand not hidden by his cloak reaching for his sword. They glared at each other for a moment, but otherwise relaxed when Batch shrugged and held up his hands. “Whatever you say, boss.”
+Batch scowled and looked like he might lunge at the fat man, but something stirred in the shadows. Cloak-fellow stepped forward, the hand not hidden by his cloak reaching for his sword. They glared at each other for a moment, but otherwise relaxed when Batch shrugged and held up his hands. “Whatever you say, boss.”
 
 “As it so happens,” Dan continued. “I am fond of giving second chances. Here’s yours. It would be wise of you to take it.”
 
