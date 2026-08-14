@@ -88,11 +88,11 @@ Sweet-tooth let out a sigh. Of all the inmates to bring, why him? Had he really 
 
 Dan shrugged. “Sure. It’s worth a try. But that line of thinking, Ba-chen, son of Ba-tan, already cost you six years of your life. I suggest not throwing away the rest of it.”
 
-Batch scowled and looked like he might lunge at the fat man, but something stirred in the shadows. Cloak-fellow stepped forward, the hand not hidden by his cloak reaching for his sword. They glared at each other for a moment, but otherwise relaxed when Batch shrugged and held up his hands. “Whatever you say, boss.”
+Batch scowled and looked like he might lunge at the fat man, but something stirred in the shadows. The Cloak-fellow stepped forward, the hand not hidden by his cloak reaching for his sword. They glared at each other for a moment, but otherwise relaxed when Batch shrugged and held up his hands. “Whatever you say...”
 
 “As it so happens,” Dan continued. “I am fond of giving second chances. Here’s yours. It would be wise of you to take it.”
 
-Maybe it wouldn’t be so bad. What did stopping the summer fires even mean, anyway? Chucking bucketsful of water at a burning house? Pretty sure he could manage that. He’d worry about his soul later. Besides, there had to be some way he could weasel himself out of this down the line. He certainly had the experience–he’d been dodging obligations all his life.
+Maybe it wouldn’t be so bad. What did stopping the summer fires even mean, anyway? Chucking bucketsful of water at a burning house? Pretty sure he could manage that. He’d worry about his soul later. Besides, there had to be some way he could weasel himself out of this down the line. He certainly had the practice–he’d been dodging obligations all his life.
 
 Duck, a quiet, elderly man who mostly kept to himself, shuffled over to Dan. His gray hair gleamed in the torchlight as he reached out a shaky, gnarled hand. “You better keep your word.”
 
@@ -116,7 +116,7 @@ Crow yawned widely, not even bothering to cover his mouth. Mannerless, as always
 
 That last bit was met with much cheering and whooping. What Sweet-tooth would have given to climb aboard and join them... He could only gaze mournfully, sitting by himself on the other cart. The boring one, destined for home and further away from worldly pleasures. He supposed he shouldn’t complain. Freedom had been handed to him after all. That being said, it would’ve been nice to earn said freedom and feel righteous about himself. Maybe that was why people get obsessed with all this *honor* nonsense. 
 
-“Oh and one more thing,” Dan called out. “I don’t need to remind you to behave yourselves, I assume? But just in case, I will anyway.” He gestured to Cloakey. “This fellow here is Caide. Remember his face. Any one of you does something particularly distasteful–he’s the one you’ll have to deal with. See that sword? He hasn’t drawn that thing in quite a while, and proud of the fact. Trying to be a better man, he says. Should you force him to... Well, you know how it goes.” He looked around at everyone on the fun cart. "To those who’d think of running–wherever you might think you’re safe, he’ll track you down in... I don’t know, five days?"
+“Oh and one more thing,” Dan called out. “I don’t need to remind you to behave yourselves, I assume? But just in case, I will anyway.” He gestured to the Cloak-fellow. “This fellow here is Caide. Remember his face. Any one of you does something particularly distasteful–he’s the one you’ll have to deal with. See that sword? He hasn’t drawn that thing in quite a while, and proud of the fact. Trying to be a better man, he says. Should you force him to... Well, you know how it goes.” He looked around at everyone on the fun cart. "To those who’d think of running–wherever you might think you’re safe, he’ll track you down in... I don’t know, five days?"
 
 Caide, who hadn’t said a word all night, shrugged. 
 
