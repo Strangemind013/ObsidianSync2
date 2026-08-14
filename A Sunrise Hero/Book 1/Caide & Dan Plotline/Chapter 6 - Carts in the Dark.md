@@ -56,9 +56,9 @@ Didn’t it seem all too convenient? He wouldn’t put it past his father to set
 
 “Surely we can import? Virani upstream is almost always at a surplus.” Pung piped up, much to everyone’s surprise.
 
-Tight-robe nodded, his half-smile somewhere between surprise and
+Tight-robe nodded, his half-smile somewhere between surprise and delight. “Excellent idea. But *A Hundred Moons* was sunk just before it reached our ports, and every other trade ship has been avoiding us like the pox.”
 
-“Trade?”
+“Inland trade routes?”
 
 “Bandits.”
 
@@ -80,7 +80,7 @@ Sweet-tooth looked down on his untrimmed toenails, shifting uneasily. He could l
 
 “Because,” Dan said, “I believe you are innocent. As far as I could tell, at least. I’ve looked into each of your files, and then some. All I saw was poor circumstance, bad timing. Maybe someone’s out to get you, or needed someone to blame. Either way, your guilt was decided... rather unfairly, I think.”
 
-*Was it, though?* Sweet-tooth *had* been neck-deep in gambling debts. There was no denying it. What was unfair, however, was that his father refused to do anything. He just stood by as they dragged his son away. Where was the honor in that?
+*Was it, though?* Sweet-tooth *had* been neck-deep in gambling debts. There was no denying that. What was unfair, however, was that his father refused to do anything until now. Where was the honor in that?
 
 Pung scratched his chin with a puzzled look. “I’m sorry, Young Master, but I *am* guilty.”
 
