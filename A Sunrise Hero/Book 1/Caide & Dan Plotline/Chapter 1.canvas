@@ -28,7 +28,8 @@
 		{"id":"0d0dac4163d329ff","type":"text","text":"One of his sons is missing, but didn’t try too hard to find him because he has a much younger son that would be a better heir.","x":-1380,"y":2811,"width":250,"height":169},
 		{"id":"6a014efdb44b47d7","type":"text","text":"Scene with the princess in Snowdrop Garden","x":-1380,"y":3100,"width":250,"height":120},
 		{"id":"ca269de912fe3227","x":-1380,"y":3300,"width":250,"height":260,"type":"text","text":"Mislead the reader as though she was a courtesan, and Dan a simp. He calls her ‘My Princess’ \n\n“Romance can bloom in the unlikeliest of places.”"},
-		{"id":"951b8525aedbb0b2","x":-1380,"y":3760,"width":250,"height":380,"type":"text","text":"At the end she says ‘she must leave,’ implying their time is up. Dan tries to haggle with her, but she insisted. (Really make Dan look like a simp fool)\n\n"}
+		{"id":"951b8525aedbb0b2","x":-1380,"y":3760,"width":250,"height":200,"type":"text","text":"At the end she says ‘she must leave,’ implying their time is up. Dan tries to haggle with her, but she insisted. (Really make Dan look like a simp fool)\n\n"},
+		{"id":"4e33568000b592a3","x":-1380,"y":4020,"width":250,"height":360,"type":"text","text":"“Wait for me.”\n\n“Always, my dear.”\n\n“No, you don’t understand. I can see it—I’m getting somewhere. Give me a few more years and I will be worthy of your hand, my princess, and whatever else is attached.”"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
@@ -47,6 +48,7 @@
 		{"id":"d20db1ad852d98ce","fromNode":"1ef6d164347607ca","fromSide":"bottom","toNode":"0d0dac4163d329ff","toSide":"top"},
 		{"id":"a2d5da2a103a6106","fromNode":"0d0dac4163d329ff","fromSide":"bottom","toNode":"6a014efdb44b47d7","toSide":"top"},
 		{"id":"4a09a1a52a303930","fromNode":"6a014efdb44b47d7","fromSide":"bottom","toNode":"ca269de912fe3227","toSide":"top"},
-		{"id":"c5c4f90e2908d1c0","fromNode":"ca269de912fe3227","fromSide":"bottom","toNode":"951b8525aedbb0b2","toSide":"top"}
+		{"id":"c5c4f90e2908d1c0","fromNode":"ca269de912fe3227","fromSide":"bottom","toNode":"951b8525aedbb0b2","toSide":"top"},
+		{"id":"6daa75181e8a65ff","fromNode":"951b8525aedbb0b2","fromSide":"bottom","toNode":"4e33568000b592a3","toSide":"top"}
 	]
 }
