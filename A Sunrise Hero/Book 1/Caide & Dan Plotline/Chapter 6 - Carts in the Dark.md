@@ -118,7 +118,7 @@ Dan frowned down on his outstretched hand as though he was offered a dead fish. 
 
 "Oh. I guess Father really did–"
 
-Crow yawned widely, not even bothering to cover his mouth. Mannerless, as always. “So, where are we headed?”
+Crow yawned widely, not even bothering to cover his mouth. Mannerless, as always. “So where are we headed?”
 
 "To get yourselves cleaned up," said Dan. "I’ve reserved Snowdrop Garden for the evening, and not at a small cost. So enjoy yourselves. Wash off the stink of prison. Have a nice, hot meal. Get drunk. I’ve also hired some women to... *assist.*" 
 
