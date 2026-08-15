@@ -27,7 +27,8 @@
 		{"id":"1ef6d164347607ca","type":"text","text":"What problem?","x":-1380,"y":2711,"width":250,"height":60},
 		{"id":"0d0dac4163d329ff","type":"text","text":"One of his sons is missing, but didn’t try too hard to find him because he has a much younger son that would be a better heir.","x":-1380,"y":2811,"width":250,"height":169},
 		{"id":"6a014efdb44b47d7","type":"text","text":"Scene with the princess in Snowdrop Garden","x":-1380,"y":3100,"width":250,"height":120},
-		{"id":"ca269de912fe3227","x":-1380,"y":3300,"width":250,"height":184,"type":"text","text":"Mislead the reader as though she was a courtesan, and Dan a simp. He calls her ‘My Princess’"}
+		{"id":"ca269de912fe3227","x":-1380,"y":3300,"width":250,"height":260,"type":"text","text":"Mislead the reader as though she was a courtesan, and Dan a simp. He calls her ‘My Princess’ \n\n“Romance can bloom in the unlikeliest of places.”"},
+		{"id":"951b8525aedbb0b2","x":-1380,"y":3620,"width":250,"height":400,"type":"text","text":"At the end she says ‘she must leave,’ implying their time is up. Dan tries to haggle with her,bu"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
