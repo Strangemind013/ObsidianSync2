@@ -24,9 +24,9 @@
 		{"id":"628c0e9defe96aa4","type":"text","text":"Minister doesn’t respect Dan because he is of low birth. He isn’t subtle about this, unlike others","x":-1380,"y":2220,"width":250,"height":151},
 		{"id":"193084833ecdb71a","type":"text","text":"How does Dan respond to this?","x":-1380,"y":2411,"width":250,"height":80},
 		{"id":"235834252a212751","type":"text","text":"He doesn’t retaliate or show negative emotion. Instead he offers help. To fix one of his problems.","x":-1380,"y":2531,"width":250,"height":144},
-		{"id":"1ef6d164347607ca","x":-1380,"y":2711,"width":250,"height":60,"type":"text","text":"What problem?"},
-		{"id":"0d0dac4163d329ff","x":-1380,"y":2811,"width":250,"height":89,"type":"text","text":"His son is missing. Leaving him without an heir."},
-		{"id":"6a014efdb44b47d7","x":-1380,"y":2960,"width":250,"height":120,"type":"text","text":""}
+		{"id":"1ef6d164347607ca","type":"text","text":"What problem?","x":-1380,"y":2711,"width":250,"height":60},
+		{"id":"0d0dac4163d329ff","type":"text","text":"One of his sons is missing, but didn’t try too hard to find him because he has a much younger son that would be a better heir.","x":-1380,"y":2811,"width":250,"height":169},
+		{"id":"6a014efdb44b47d7","type":"text","text":"","x":-1380,"y":3100,"width":250,"height":120}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
