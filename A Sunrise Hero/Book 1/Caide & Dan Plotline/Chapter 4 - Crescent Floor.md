@@ -229,73 +229,30 @@ Caide had never been so relieved to see someone laugh, but it still didn’t sit
 “Relax,” Dan said. “I see why you did it. Doesn’t make you less of a fool for doing so, but I get it.”
 
 Caide wanted to spit it out. I’m sorry. Should be easy enough, yet a lump in his throat choked him into silence. He let the moment stretch out and pass them by. Coward. 
-
-  
-
 “How long would it take,” Dan said, “this surgery of yours?”
-
-  
-
 “A week, more or less,” Caide said. “The last thing we need should arrive from Silan in the morning. But I’ll need time to recover, and the arm will take getting used to.” 
-
-  
-
 “Alright,” Dan nodded. “I’ll see you in a week, then.” 
-
-  
-
 It took Caide a moment to understand. “You... want me back?” he asked, voice cracking in disbelief. 
-
-  
-
 “Of course,” Dan said. “How else will you help me climb out this shithole you put me in?” He narrowed his eyes at him. “You are coming back, aren’t you? Or are you planning on riding off into the sunset?” 
-
-  
-
-“Why?” Caide blurted out. “Because of me, you’re–” 
-
-  
-
+“Why?” Caide blurted out. “Because of me, you’re–”
 Dan raised a hand and cut him off. “How many times must I say it? I’m on your side, Caide. Always.” He had that annoyed look on him, one he had when explaining something obvious. “I’ve known you for what? Six, seven years now? All this time you didn’t make so much as a hint of trouble. If a betrayal once every seven years is the price for your friendship, then I consider that a bargain well-struck.”
 
-  
-
 “Is it really that easy? That simple?” 
-
-  
-
 “Yes, you fool. I hate to say it, but I lost everything already. I’m not losing a friend as well.”
-
-  
-
 Caide had been dreading this for weeks. The thought of leaving the simple, comfortable life he’d made for himself... He didn’t have the will to start over again. Not anymore. But he could stay–Dan said he wanted him back. A sliver of good fortune so rare that he started to question its existence. Still, it was more than he deserved.
-
 “You’re holding this over my head forever, aren’t you?”
-
 “Oh without a doubt,” Dan said, grinning.
-
 Caide laughed for the first time in what felt like an age. “Wouldn’t have it any other way,” he said, grinning back.
 
+
+
 Ever since the arm, Caide had just been wallowing on the things that went wrong for him. Years spent in self-pity. Dan had proven him wrong, however. Some things did go right for him this time–particularly his choice in company.
-
 “Dan,” he said.
-
 “Hmm?”
-
 “I’m sorry.”
-
 Dan chuckled, his eyes crinkling at the corners. “Took you long enough,” he said. “Saving that for the end, were you?”
-
-  
-
 “No, I...” Caide looked Dan in the eye. “It’s not worth much right now, but I give you my word. This will never happen again.”
-
-  
-
 Dan nodded. “It better not. Betray me again and I’m poisoning your tea.”
-
-  
-
 “Believe me,” Caide said. “If I do, I’m drinking that tea myself.”
 
   
