@@ -37,7 +37,7 @@
 		{"id":"e08e29f762d558b2","x":-635,"y":3300,"width":250,"height":60,"type":"text","text":"Hanging out."},
 		{"id":"2c89951f1cf6f1b4","x":-635,"y":3430,"width":250,"height":430,"type":"text","text":"I can do a bit of exposition here, though I worry since the chapter is already dialog-heavy. This needs to be interesting and not just idle chatter.\n\nI can show Dan simping a bit, and where the “Princess” pries him for info. Make the reader think that Dan is a fool wrapped around her finger. "},
 		{"id":"983a1ef300218737","x":-635,"y":3930,"width":250,"height":70,"type":"text","text":"What info is this?"},
-		{"id":"58f000b2ac0793b8","x":-635,"y":4060,"width":250,"height":120,"type":"text","text":"Something about how Minister Cardinale rose in status."}
+		{"id":"58f000b2ac0793b8","x":-635,"y":4060,"width":250,"height":400,"type":"text","text":"Something about how Minister Cardinale rose in status. Like, the specifics of some things.\n\nThis allows us more insight into Dan’s intellect.\n\n“But my dear, that’s supposed to be a secret, so let’s keep that between us, shall we?”\n\n“Of course, my dear.”"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
@@ -64,6 +64,7 @@
 		{"id":"452478c8f43e7c55","fromNode":"c58f7255a91dcb19","fromSide":"bottom","toNode":"e08e29f762d558b2","toSide":"top"},
 		{"id":"f4930044d119af30","fromNode":"e08e29f762d558b2","fromSide":"bottom","toNode":"2c89951f1cf6f1b4","toSide":"top"},
 		{"id":"ed8bb3abd8369145","fromNode":"2c89951f1cf6f1b4","fromSide":"bottom","toNode":"983a1ef300218737","toSide":"top"},
-		{"id":"814152b78c10d193","fromNode":"983a1ef300218737","fromSide":"bottom","toNode":"58f000b2ac0793b8","toSide":"top"}
+		{"id":"814152b78c10d193","fromNode":"983a1ef300218737","fromSide":"bottom","toNode":"58f000b2ac0793b8","toSide":"top"},
+		{"id":"ba457ecc07aabb85","fromNode":"58f000b2ac0793b8","fromSide":"left","toNode":"951b8525aedbb0b2","toSide":"right"}
 	]
 }
