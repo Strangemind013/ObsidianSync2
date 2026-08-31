@@ -63,6 +63,3 @@ He agrees to Dan’s proposal.
 —
 We now open in Snowdrop Garden, the most elite brothel in Meroun.
 
-
-
-

@@ -31,7 +31,8 @@
 		{"id":"951b8525aedbb0b2","type":"text","text":"At the end she says ‘she must leave,’ implying their time is up. Dan tries to haggle with her, but she insisted. (Really make Dan look like a simp fool)\n\n","x":-1380,"y":3760,"width":250,"height":200},
 		{"id":"4e33568000b592a3","type":"text","text":"“Wait for me.”\n\n“Always, dear.”\n\n“No, you don’t understand. I can already see it—I’m getting somewhere. Give me a few more years and I will be worthy of your hand, my princess, and whatever else is attached.”\n\n“You already are, my prince, but sure.”","x":-1380,"y":4020,"width":250,"height":440},
 		{"id":"e5b1091fe6798ca4","type":"text","text":"Dan thought about the road ahead, and all the work that needed doing. He might be out of his depth, but he’d sooner be damned then let the city of Meroun starve to death. ","x":-1380,"y":4540,"width":250,"height":260},
-		{"id":"9e7f688cb6af2d21","type":"text","text":"Blurb:\n\nWe find Dan, the Minister of Works’ steward and adpoted(ish) son, ","x":-2596,"y":-344,"width":736,"height":404}
+		{"id":"9e7f688cb6af2d21","type":"text","text":"Blurb:\n\nWe find Dan, the Minister of Works’ steward and adpoted(ish) son, ","x":-2596,"y":-344,"width":736,"height":404},
+		{"id":"c58f7255a91dcb19","x":-761,"y":3135,"width":250,"height":60,"type":"text","text":"What are they doing here?"}
 	],
 	"edges":[
 		{"id":"172deed347b72a46","fromNode":"f4851e83961f41a2","fromSide":"bottom","toNode":"b1923dcc0f4a6d2a","toSide":"top"},
@@ -52,6 +53,7 @@
 		{"id":"4a09a1a52a303930","fromNode":"6a014efdb44b47d7","fromSide":"bottom","toNode":"ca269de912fe3227","toSide":"top"},
 		{"id":"c5c4f90e2908d1c0","fromNode":"ca269de912fe3227","fromSide":"bottom","toNode":"951b8525aedbb0b2","toSide":"top"},
 		{"id":"6daa75181e8a65ff","fromNode":"951b8525aedbb0b2","fromSide":"bottom","toNode":"4e33568000b592a3","toSide":"top"},
-		{"id":"b99fc798f36ebf0e","fromNode":"4e33568000b592a3","fromSide":"bottom","toNode":"e5b1091fe6798ca4","toSide":"top"}
+		{"id":"b99fc798f36ebf0e","fromNode":"4e33568000b592a3","fromSide":"bottom","toNode":"e5b1091fe6798ca4","toSide":"top"},
+		{"id":"ad8de2d6a86a06d3","fromNode":"6a014efdb44b47d7","fromSide":"right","toNode":"c58f7255a91dcb19","toSide":"left"}
 	]
 }
