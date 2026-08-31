@@ -49,3 +49,12 @@ The Minister said nothing for a while.
 "You're about to make a point, young steward. Kindly get on with it."
 
 "I know where he is."
+
+The Minister reacts, but not as much as Dan thought.
+
+Dan contemplates (out loud) that maybe the minister doesn’t want his eldest son back, since he got his new wife pregnant already. 
+
+The Minister reacts strongly for a moment, though he reined himself in pretty well. He considers Dan.
+
+Dan adds that maybe instead of bringing
+
