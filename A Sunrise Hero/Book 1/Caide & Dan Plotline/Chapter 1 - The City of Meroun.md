@@ -52,9 +52,15 @@ The Minister said nothing for a while.
 
 The Minister reacts, but not as much as Dan thought.
 
-Dan contemplates (out loud) that maybe the minister doesn’t want his eldest son back, since he got his new wife pregnant already. 
+Dan contemplates (out loud) that maybe the minister doesn’t want his eldest son back, since he got his new wife pregnant already. There is a hint of blackmail in this, the revealing of how he abandoned his son in an otherwise preventable demise.
 
 The Minister reacts strongly for a moment, though he reined himself in pretty well. He considers Dan.
 
-Dan adds that maybe instead of bringing
+“It was a mystery among us, how Minister Cardinale suddenly had the wits to further himself so suddenly. Now I know.”
+
+He agrees to Dan’s proposal.
+
+—
+
+
 
