@@ -61,6 +61,8 @@ The Minister reacts strongly for a moment, though he reined himself in pretty we
 He agrees to Dan’s proposal.
 
 —
+We now open in Snowdrop Garden, the most elite brothel in Meroun.
+
 
 
 
