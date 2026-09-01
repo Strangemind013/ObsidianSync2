@@ -79,7 +79,7 @@ She explains that a noble might take offense into being forced to do something, 
 
 Dan considers this. He makes preparations in his head.
 
-“I see.” He’s a bit sullen.
+“I see.” He’s a bit sullen, the reality of his low birth rearing its ugly head agian.
 
 Princess tries to comfort him by asking about his triumphs instead.
 
@@ -89,7 +89,7 @@ It wasn’t something he ever wanted to share to anyone, but he could never refu
 
 “Look at you, my lady. Dabbling in the workings of the Jade court. Be careful, however–Lady Tahede has a habit of pruning her more ambitious flowers.” Dan said with a wink.
 
-Princess laughed. “I would imagine it’s terrible for business if her courtesans had lofty goals. Still, I’ve met most of them, and so far every one of them had more wit than the entirety of the eunuchs combined. There’s irony in there, no?”
+Princess laughed. “I would imagine it’s terrible for business if her courtesans had lofty goals, or goals of their own for that matter. Still, I’ve met most of them, and so far each one had more wit than the entirety of the eunuchs combined. There’s irony in there, no?”
 
 “In more ways than I care to count.”
 
