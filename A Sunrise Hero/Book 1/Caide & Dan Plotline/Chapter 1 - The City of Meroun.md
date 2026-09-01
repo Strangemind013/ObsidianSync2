@@ -89,9 +89,25 @@ It wasn’t something he ever wanted to share to anyone, but he could never refu
 
 “Look at you, my lady. Dabbling in the workings of the Jade court. Be careful, however–Lady Tahede has a habit of pruning her more ambitious flowers.” Dan said with a wink.
 
-Princess laughed. “I would imagine it’s terrible for business if her courtesans had lofty goals. Still, ”
+Princess laughed. “I would imagine it’s terrible for business if her courtesans had lofty goals. Still, I’ve met most of them, and so far every one of them had more wit than the entirety of the eunuchs combined. There’s irony in there, no?”
 
+“In more ways than I care to count.”
 
+More descriptions of Princess. Some simping.
+
+“The hour is late, my dear.”
+
+“Agreed.” Dan got up. “You’ll send for me soon, I hope?”
+
+“As soon as I am able.”
+
+“Wait for me.”
+
+“Always, dear.”
+
+“No, you don’t understand. I can already see it—I’m getting somewhere. Give me a few more years and I will be worthy of your hand, my princess, and whatever else is attached.”
+
+“You already are, my prince, but sure.””
 
 
 
