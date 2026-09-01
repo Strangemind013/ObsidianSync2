@@ -83,13 +83,13 @@ Dan considers this. He makes preparations in his head.
 
 Princess tries to comfort him by asking about his triumphs instead.
 
-“I’m sure making a friend of Minister Sung is easy compared to Minister X, no? The entire court wonders how anyone convinced that old miser to part with his [something], but you did. Must be quite the story.”
+“I’m sure making a friend of Minister Sung is easy compared to Minister X, no? I was sure that old miser would never part with his [something], and yet you managed to convince him. Must be quite the story.”
 
 It wasn’t something he ever wanted to share to anyone, but he could never refuse his Princess.
 
+“Look at you, my lady. Dabbling in the workings of the Jade court. Be careful, however–Lady Tahede has a habit of pruning her more ambitious flowers.” Dan said with a wink.
 
-
-
+Princess laughed. “I would imagine it’s terrible for business if her courtesans had lofty goals. Still, ”
 
 
 
