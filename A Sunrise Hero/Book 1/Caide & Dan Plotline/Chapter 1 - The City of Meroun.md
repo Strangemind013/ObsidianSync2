@@ -75,7 +75,15 @@ Describe the princess.
 
 “I like to think of it as making a new friend.”
 
-She explains that a noble might take offense into being forced to do something, especially by someone who’s of lower station.
+She explains that a noble might take offense into being forced to do something, especially by someone who’s of lower station. Princess hesitates a bit about mentioning this.
+
+Dan considers this. He makes preparations in his head.
+
+“I see.” He’s a bit sullen.
+
+Princess tries to comfort him.
+
+
 
 
 
