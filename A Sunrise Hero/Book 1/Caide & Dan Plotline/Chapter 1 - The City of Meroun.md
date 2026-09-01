@@ -83,7 +83,13 @@ Dan considers this. He makes preparations in his head.
 
 Princess tries to comfort him by asking about his triumphs instead.
 
-“I’m sure making a friend of Minister Sung is easy compared to Minister X, no? You never told me how you dealt with him”
+“I’m sure making a friend of Minister Sung is easy compared to Minister X, no? The entire court wonders how anyone convinced that old miser to part with his [something], but you did. Must be quite the story.”
+
+It wasn’t something he ever wanted to share to anyone, but he could never refuse his Princess.
+
+
+
+
 
 
 
