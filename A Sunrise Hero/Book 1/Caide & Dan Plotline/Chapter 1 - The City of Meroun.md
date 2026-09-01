@@ -81,7 +81,9 @@ Dan considers this. He makes preparations in his head.
 
 “I see.” He’s a bit sullen.
 
-Princess tries to comfort him.
+Princess tries to comfort him by asking about his triumphs instead.
+
+“
 
 
 
