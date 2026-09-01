@@ -65,6 +65,14 @@ We now open in Snowdrop Garden, the most elite brothel in Meroun.
 
 “And he folded?” 
 
-Dan sits up. “I didn’t leave him much of a choice there, did I?”
+Dan sits up. “Didn’t leave him much of a choice.”
 
 Describe the princess.
+
+“Do you think it wise to make an enemy of him?”
+
+“I like to think of it as making a new friend.”
+
+“Not sure he’d see it that way.”
+
+“Think of it this way–if it comes down to it, it’s my word against his. And ”
