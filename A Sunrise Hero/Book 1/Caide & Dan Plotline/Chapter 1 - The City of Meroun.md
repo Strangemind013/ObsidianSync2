@@ -56,6 +56,8 @@ Dan contemplates (out loud) that maybe the minister doesn’t want his eldest so
 
 The Minister reacts strongly for a moment, though he reined himself in pretty well. He considers Dan.
 
+Dan clarifies that he’s not threatening him, merely presenting options. He wants to be his friend. He explains that he urgently needs the warehouses, for something that benefits everyone. 
+
 “It was a mystery among us, how Minister Cardinale suddenly had the wits to further himself so suddenly. Now I know.”
 
 He agrees to Dan’s proposal.
@@ -75,4 +77,7 @@ Describe the princess.
 
 “Not sure he’d see it that way.”
 
-“Think of it this way–if it comes down to it, it’s my word against his. And ”
+“Think about it–if it comes down to it, it’s my word against his. And by then he can  just dismiss it as a baseless rumor. I think he just wants his son back.”
+
+
+
