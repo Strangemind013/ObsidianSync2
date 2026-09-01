@@ -8,7 +8,7 @@ The minister spoke inane pleasantries, but Dan just heard *move it along, fat bo
 
 "No need, you're Minister Cardinale's steward, are you not?"
 
-"With all due respect, Minister. I am his adopted son."
+"With all due respect, Minister. I am his adopted son." All but in paper.
 
 "Then my apologies to your father, and to you, for missing the adoption ceremony. Please, you must help me seek forgivenes."
 
@@ -18,7 +18,7 @@ Dan thinks about what these underhanded insults truly meant. He's not insulted.
 
 "Kindly state your purpose, young steward, I'm sure there is a higher reason for your visit. You did not come here to argue succession."
 
-"Very good, your excellency. I had planned to exchange pleasantries first, maybe over tea, and then promptly steer the conversation--in a most impressively deft manner I must add--to a subject of my choosing. But alas, your bluntness has overwhelmed me."
+"Very good, your excellency. I had planned to exchange pleasantries first, maybe over tea, and then promptly steer the conversation--in a most impressively deft manner I must add--to a subject of my choosing. But alas, your bluntness has stymied me."
 
 "And which subject would that be?"
 
@@ -58,7 +58,7 @@ The Minister reacts strongly for a moment, though he reined himself in pretty we
 
 Dan clarifies that he’s not threatening him, merely presenting options. He wants to be his friend. He explains that he urgently needs the warehouses, for something that benefits everyone. He promises discretion with this whole matter.
 
-“It was a mystery among us, how Minister Cardinale suddenly had the wits to further himself so suddenly. Now I know.”
+“It was a mystery among us, how Minister Cardinale had the wits to further himself so suddenly. Now I know.”
 
 He agrees to Dan’s proposal.
 
@@ -105,9 +105,11 @@ More descriptions of Princess. Some simping.
 
 “Always, dear.”
 
-“No, you don’t understand. I can already see it—I’m getting somewhere. Give me a few more years and I will be worthy of your hand, my princess, and whatever else is attached.”
+“No, you don’t understand. I can already see it—I’m getting somewhere. Give me a few more years and I will be worthy of your hand, my princess, and whatever else comes attached.”
 
-“You already are, my prince, but sure.””
+Dan thinks about how he didn’t want to keep hiding in a brothel to meet her.
+
+“You already are, my prince, but as you wish.”
 
 
 
