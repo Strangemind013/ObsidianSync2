@@ -4,7 +4,7 @@
 		{"id":"8c9a5971333b37eb","x":-580,"y":-180,"width":250,"height":144,"color":"1","type":"text","text":"He’s an active member of the Disavowed, hunting the last rogue Sages he can find."},
 		{"id":"ec8844ccb5886aef","x":-580,"y":20,"width":250,"height":60,"color":"1","type":"text","text":"He’s a bum."},
 		{"id":"7af767c153290291","x":-277,"y":-180,"width":250,"height":230,"color":"4","type":"text","text":"He “works” as a bodyguard for Dan. Primary duties include: standing around behind Dan, look intimidating, and at times provide mundane conversation.\n\n"},
-		{"id":"ab25ffe1491d521c","x":-277,"y":120,"width":250,"height":100,"type":"text","text":"Hira "}
+		{"id":"ab25ffe1491d521c","x":-277,"y":120,"width":250,"height":120,"type":"text","text":"Hira tells him about a possible arm, but it costs a fortune."}
 	],
 	"edges":[
 		{"id":"f3ab597e9454aede","fromNode":"0c7a4699f1456f3e","fromSide":"bottom","toNode":"8c9a5971333b37eb","toSide":"top"},
