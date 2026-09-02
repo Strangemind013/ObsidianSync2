@@ -10,7 +10,7 @@
 		{"id":"7b9b67bf9c335a0d","x":120,"y":300,"width":250,"height":80,"type":"text","text":"Caide thinks about it (Narration)"},
 		{"id":"9c4820e6ffc9ec97","x":120,"y":-36,"width":250,"height":60,"type":"text","text":"Make it part of the scene"},
 		{"id":"d67b29568b4debe0","x":460,"y":-36,"width":250,"height":60,"type":"text","text":"Flashack?"},
-		{"id":"35d4024d15e66530","x":440,"y":300,"width":250,"height":120,"type":"text","text":"Have Caide talk about it? "}
+		{"id":"35d4024d15e66530","x":460,"y":300,"width":250,"height":80,"type":"text","text":"Have Caide talk about it? "}
 	],
 	"edges":[
 		{"id":"f3ab597e9454aede","fromNode":"0c7a4699f1456f3e","fromSide":"bottom","toNode":"8c9a5971333b37eb","toSide":"top"},
