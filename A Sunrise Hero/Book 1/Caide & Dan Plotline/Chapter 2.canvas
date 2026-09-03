@@ -9,9 +9,10 @@
 		{"id":"7b9b67bf9c335a0d","type":"text","text":"Caide thinks about it (Narration)","x":120,"y":300,"width":250,"height":80},
 		{"id":"9c4820e6ffc9ec97","type":"text","text":"Make it part of the scene","x":120,"y":-36,"width":250,"height":60},
 		{"id":"d67b29568b4debe0","type":"text","text":"Flashack?","x":460,"y":-36,"width":250,"height":60},
-		{"id":"35d4024d15e66530","type":"text","text":"Have Caide talk about it? ","x":460,"y":300,"width":250,"height":80},
+		{"id":"35d4024d15e66530","type":"text","text":"Have Caide talk about it? (Indirectly)","x":460,"y":300,"width":250,"height":80},
 		{"id":"524468ca82121b4b","type":"text","text":"Caide asks Dan what he would do if he were in his place","x":320,"y":460,"width":250,"height":100},
-		{"id":"f2a3a6a832e70c42","type":"text","text":"How do I inform the reader of this?","x":120,"y":120,"width":250,"height":120,"color":"2"}
+		{"id":"f2a3a6a832e70c42","type":"text","text":"How do I inform the reader of this?","x":120,"y":120,"width":250,"height":120,"color":"2"},
+		{"id":"aa9d3523be146d44","x":640,"y":460,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"f3ab597e9454aede","fromNode":"0c7a4699f1456f3e","fromSide":"bottom","toNode":"8c9a5971333b37eb","toSide":"top"},
@@ -23,6 +24,7 @@
 		{"id":"3d9e0d8b05d101f6","fromNode":"f2a3a6a832e70c42","fromSide":"top","toNode":"9c4820e6ffc9ec97","toSide":"bottom"},
 		{"id":"82025af1a45efd55","fromNode":"f2a3a6a832e70c42","fromSide":"right","toNode":"d67b29568b4debe0","toSide":"bottom"},
 		{"id":"635cf73e7ed33e85","fromNode":"f2a3a6a832e70c42","fromSide":"right","toNode":"35d4024d15e66530","toSide":"top"},
-		{"id":"647bc13261d7bbae","fromNode":"35d4024d15e66530","fromSide":"bottom","toNode":"524468ca82121b4b","toSide":"top"}
+		{"id":"647bc13261d7bbae","fromNode":"35d4024d15e66530","fromSide":"bottom","toNode":"524468ca82121b4b","toSide":"top"},
+		{"id":"c5a2d8ec477085fe","fromNode":"35d4024d15e66530","fromSide":"bottom","toNode":"aa9d3523be146d44","toSide":"top"}
 	]
 }
