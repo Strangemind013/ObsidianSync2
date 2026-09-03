@@ -10,7 +10,7 @@
 		{"id":"9c4820e6ffc9ec97","type":"text","text":"Make it part of the scene","x":120,"y":-36,"width":250,"height":60},
 		{"id":"d67b29568b4debe0","type":"text","text":"Flashack?","x":460,"y":-36,"width":250,"height":60},
 		{"id":"35d4024d15e66530","type":"text","text":"Have Caide talk about it? ","x":460,"y":300,"width":250,"height":80},
-		{"id":"524468ca82121b4b","type":"text","text":"He asks Dan what would he do if he were in his place","x":320,"y":460,"width":250,"height":100},
+		{"id":"524468ca82121b4b","type":"text","text":"Caide asks Dan what he would do if he were in his place","x":320,"y":460,"width":250,"height":100},
 		{"id":"f2a3a6a832e70c42","type":"text","text":"How do I inform the reader of this?","x":120,"y":120,"width":250,"height":120,"color":"2"}
 	],
 	"edges":[
