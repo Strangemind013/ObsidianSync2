@@ -6,12 +6,12 @@
 		{"id":"7af767c153290291","type":"text","text":"He “works” as a bodyguard for Dan. Primary duties include: standing around behind Dan, look intimidating, and at times provide mundane conversation.\n\n","x":-277,"y":-180,"width":250,"height":230,"color":"4"},
 		{"id":"ab25ffe1491d521c","type":"text","text":"Hira tells him about a possible arm, but it costs a fortune.","x":-277,"y":120,"width":250,"height":120},
 		{"id":"77b90632b9412369","type":"text","text":"What does Caide do?","x":-277,"y":300,"width":250,"height":60},
-		{"id":"f2a3a6a832e70c42","type":"text","text":"How do I inform the reader of this?","x":120,"y":120,"width":250,"height":120},
 		{"id":"7b9b67bf9c335a0d","type":"text","text":"Caide thinks about it (Narration)","x":120,"y":300,"width":250,"height":80},
 		{"id":"9c4820e6ffc9ec97","type":"text","text":"Make it part of the scene","x":120,"y":-36,"width":250,"height":60},
 		{"id":"d67b29568b4debe0","type":"text","text":"Flashack?","x":460,"y":-36,"width":250,"height":60},
 		{"id":"35d4024d15e66530","type":"text","text":"Have Caide talk about it? ","x":460,"y":300,"width":250,"height":80},
-		{"id":"524468ca82121b4b","x":320,"y":460,"width":250,"height":100,"type":"text","text":"He asks Dan what would he do if he were in his place"}
+		{"id":"524468ca82121b4b","type":"text","text":"He asks Dan what would he do if he were in his place","x":320,"y":460,"width":250,"height":100},
+		{"id":"f2a3a6a832e70c42","type":"text","text":"How do I inform the reader of this?","x":120,"y":120,"width":250,"height":120,"color":"2"}
 	],
 	"edges":[
 		{"id":"f3ab597e9454aede","fromNode":"0c7a4699f1456f3e","fromSide":"bottom","toNode":"8c9a5971333b37eb","toSide":"top"},
