@@ -246,7 +246,7 @@ Caide laughed for the first time in what felt like an age. “Wouldn’t have it
 
 
 
-Ever since the arm, Caide had just been wallowing on the things that went wrong for him. Years spent in self-pity. Dan had proven him wrong, however. Some things did go right for him this time–particularly his choice in company.
+Ever since the arm, Caide had been wallowing on his misfortunes, deserved or otherwise. Dan had proven him wrong, however. Some things did go right for him this time–particularly his choice in company.
 “Dan,” he said.
 “Hmm?”
 “I’m sorry.”
