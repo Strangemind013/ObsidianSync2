@@ -12,7 +12,8 @@
 		{"id":"35d4024d15e66530","type":"text","text":"Have Caide talk about it? (Indirectly)","x":460,"y":300,"width":250,"height":80},
 		{"id":"524468ca82121b4b","type":"text","text":"Caide asks Dan what he would do if he were in his place","x":320,"y":460,"width":250,"height":100},
 		{"id":"f2a3a6a832e70c42","type":"text","text":"How do I inform the reader of this?","x":120,"y":120,"width":250,"height":120,"color":"2"},
-		{"id":"aa9d3523be146d44","x":640,"y":460,"width":250,"height":60,"type":"text","text":""}
+		{"id":"aa9d3523be146d44","type":"text","text":"","x":640,"y":460,"width":250,"height":60},
+		{"id":"030d374ee1e5c0be","x":-1449,"y":-196,"width":250,"height":131,"type":"text","text":"The great challenge of getting dressed, as well as having breakfast"}
 	],
 	"edges":[
 		{"id":"f3ab597e9454aede","fromNode":"0c7a4699f1456f3e","fromSide":"bottom","toNode":"8c9a5971333b37eb","toSide":"top"},
