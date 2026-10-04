@@ -1,1 +1,1 @@
-[]
+Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. 
