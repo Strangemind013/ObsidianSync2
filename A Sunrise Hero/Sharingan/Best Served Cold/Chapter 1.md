@@ -108,7 +108,7 @@ It was a different world beyond the gates, air heavy with lavender, shining gree
 
 "Yes?"
 
-"Let's make this the last season on campaing," Benna wheedled. "The last summer in the dust. Let's find something more comfortable to do. Now, while we're young."
+"Let's make this the last season on campaign," Benna wheedled. "The last summer in the dust. Let's find something more comfortable to do. Now, while we're young."
 
 "What about the Thousand Swords? Closer to ten thousand now, all looing to us for orders."
 
@@ -134,7 +134,7 @@ Benna sighed. "I thought we were mercenaries. Cosca never stuck to an employer l
 
 Benna pouted, just as he always did when he didn't get his way. He pouted, but never said no. It scratched at her, sometimes, that she always had to make the choices. "Since we've clearly only got one pair of balls between us, don't you ever feel the need to borrow them yourself?"
 
-"They look better on you. Besides, you've got al lthe brains. It's best they stay together."
+"They look better on you. Besides, you've got all the brains. It's best they stay together."
 
 "What do you get from the deal?"
 
