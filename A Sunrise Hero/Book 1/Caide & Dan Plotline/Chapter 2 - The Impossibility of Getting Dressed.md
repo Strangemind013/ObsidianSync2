@@ -6,7 +6,7 @@ Putting on trousers consists of a messy tangle of legs and fabric. He tried doin
 
 Belts, boots, and then the straps that held his sword (a prop). Each their own struggle. If only he could learn to bend his fingers backwards, that might’ve helped.
 
- If he had a washbasin, he could’ve checked himself out on the reflection. But no, handling a washbasin was a two-handed affar, so he had to settle for a bowl. He cupped his hand and scooped a pitiful amount of water and splashed away yesterday from his face. 
+ If he had a washbasin, he could’ve checked himself out on the reflection. But no, handling a washbasin was a two-handed affair, so he had to settle for a bowl. He cupped his hand and scooped a pitiful amount of water and splashed away last night from his face. 
  
  He looked down at his unkempt self. Pitiful. No matter, he thought, the cloak will cover everything anyway. 
 
@@ -14,5 +14,5 @@ He put on the cloak, and headed out. There was a bump under his boot, but he cou
 
 - - -
 
-“I don’t think I can beg, Dan. This is as close as I can get.”
+“Lend me the money. Either I pay you back somehow,I don’t think I can beg, Dan. This is as close as I could get.”
 
