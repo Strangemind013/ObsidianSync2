@@ -13,6 +13,11 @@ Belts, boots, and then the straps that held his sword (a prop). Each their own s
 He put on the cloak, and headed out. There was a bump under his boot, but he couldn’t be bothered. Maybe later.
 
 - - -
+Nothing more disgusting than asking a friend for money. A different, specific kind of shame. It would’ve been easier if he was asking for help to hide the corpse of someone he just murdered. Or to confess a severe betrayal. Anything else, really. But to ask for money, and the thought of being rejected. The halfhearted excuse, the downward glance, the pity. He’d rather dive headfirst into the Crescent river. 
 
-“Lend me the money. Either I pay you back somehow,I don’t think I can beg, Dan. This is as close as I could get.”
+[Laments on poverty]
+
+Funny how being poor works. Quite similar to a putrid disease. Easier to blame someone for it, to thi
+
+“Lend me the money. Either I pay you back somehow, or I spend the rest of my life doing so. I don’t think I can beg, Dan. This is as close as I could get.”
 
