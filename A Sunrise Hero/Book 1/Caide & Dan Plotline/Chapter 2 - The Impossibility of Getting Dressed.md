@@ -1,4 +1,4 @@
-Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. 
+Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. Doesn’t help that he barely got any sleep. Then again, when did he ever?
 
 Every shirt he owned got two sleeves. He only needed one, and the other hung floppy at his side. He pushed a narrow bag of sand into the empty sleeve, held it fast, and worked the cloth around with his fingers to tie a clumsy knot. It helped with his balance.
 
@@ -8,6 +8,9 @@ Belts, boots, and then the straps that held his sword (a prop). Each their own s
 
 He didn’t own a mirror, but he imagined how goofy he must’ve looked, all askew. No matter, he thought, the cloak will cover everything anyway. 
 
-He put on the cloak, and headed out. There was a bump under his boot, but he couldn’t be bothered.
+He put on the cloak, and headed out. There was a bump under his boot, but he couldn’t be bothered. Maybe later.
 
 - - -
+
+“I don’t think I can beg, Dan. This is as close as I can get.”
+
