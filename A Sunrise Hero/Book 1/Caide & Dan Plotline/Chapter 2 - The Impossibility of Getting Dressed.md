@@ -1,4 +1,4 @@
-Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever?
+Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever? Sleep was supposed to be one of the few pleasures he should be able to afford, bu
 
 Every shirt he owned got two sleeves. He only needed one, and the other hung floppy at his side. He pushed a narrow bag of sand into the empty sleeve, held it fast, and worked the cloth around with his fingers to tie a clumsy knot. It helped with his balance.
 
