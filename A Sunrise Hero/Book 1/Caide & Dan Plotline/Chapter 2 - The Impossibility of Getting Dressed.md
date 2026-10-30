@@ -15,9 +15,11 @@ He put on the cloak, and headed out. There was a bump under his boot, but he cou
 - - -
 Nothing more disgusting than asking a friend for money. A different, specific kind of shame. It would’ve been easier if he was asking for help to hide the corpse of someone he just murdered. Or to confess a severe betrayal. Anything else, really. But to ask for money, and the thought of being rejected. The halfhearted excuse, the downward glance, the pity. He’d rather dive headfirst into the Crescent river. 
 
-[Laments on poverty]
+[Scene-setting as he walked through town. Hint at the summer fires]
 
 Funny how being poor works. Quite similar to being infected by a putrid disease. Easier to blame someone for it, to think of it as a lack of wits, effort, or perseverance. If it was so easy, then no one would be poor, no? And yet Caide was poor, for all the might he possessed in his youth. He’d been focused on the wrong things. Honor, power, skill with the sword, sagecraft… He should’ve been amassing wealth instead. He should’ve turned to brigandry, his money problems would be solved in a few moons. But his last shreds of honor, damned honor, prevented him from doing so. It would’ve been so easy… But if he learned anything from his three decades of existence, it was that he wasn’t a man blessed enough to have it easy. 
+
+
 
 “Lend me the money. Either I pay you back somehow, or I spend the rest of my life doing so. I don’t think I can beg, Dan. This is as close as I could get.”
 

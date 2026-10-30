@@ -17,7 +17,7 @@ Caide grunted. A disagreeing kind of grunt.
 
 “What?”
 
-“Nothing,” Caide said.  “Just a strange irony, is all. You spit at their wake, yet you do your damnedest to strut around in their finery and play their games. Look at this place. Isn’t this an attempt at living their lives?”
+“Nothing,” Caide said.  “Just a strange irony, is all. You spit at their wake, yet you do your damnedest to strut around in their finery and play their games. Look at this place. Isn’t this an attempt at living their life?”
 
 [More Canopy Hill description here. Maybe throw in some rationalizations by Dan.]
 

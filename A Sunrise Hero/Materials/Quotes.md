@@ -62,3 +62,4 @@
 - “Sometimes there is no other course of action but to take up the sword. And if someone has to, let it be me.”
 - “How does one kill a god, you ask? Well for this one, you get your friends to do it.”
 - Do you think your ancestors are proud of who you’ve become? No matter, soon enough you can explain your bad choices to them
+- “Treason?” Dan chuckled. “Honestly, there’s something to be said about how you always jump to the worst conclusions. You should look into that, you know? Reflect.”
