@@ -1,4 +1,4 @@
-Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever? He’d been warned that ending lives takes away from your sleep, and now he didn’t even have enough for a lengthy wink.
+Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever? He’d been warned long ago that ending lives takes away from your sleep, but of course he didn’t listen. He was young and brave and foolish.  now he didn’t even have enough for a lengthy wink.
 
 Every shirt he owned got two sleeves. He only needed one, and the other hung floppy at his side. He pushed a narrow bag of sand into the empty sleeve, held it fast, and worked the cloth around with his fingers to tie a clumsy knot. It helped with his balance.
 
