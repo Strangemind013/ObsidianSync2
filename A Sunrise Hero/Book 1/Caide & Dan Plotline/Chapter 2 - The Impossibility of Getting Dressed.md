@@ -17,7 +17,7 @@ Nothing more disgusting than asking a friend for money. A different, specific ki
 
 [Laments on poverty]
 
-Funny how being poor works. Quite similar to a putrid disease. Easier to blame someone for it, to thi
+Funny how being poor works. Quite similar to being infected by a putrid disease. Easier to blame someone for it, to think of it as a lack of wits, effort, or perseverance. If it was so easy, then no one would be poor, no? And yet Caide was poor, for all the might he possessed in his youth. He’d been focused on the wrong things. Honor, power, skill with the sword, sagecraft… He should’ve been amassing wealth instead. He should’ve turned to brigandry, his money problems would be solved in a few moons. But his last shreds of honor, damned honor, prevented him from doing so. It would’ve been so easy… But if he learned anything from his three decades of existence, it was that he wasn’t a man blessed enough to have it easy. 
 
 “Lend me the money. Either I pay you back somehow, or I spend the rest of my life doing so. I don’t think I can beg, Dan. This is as close as I could get.”
 
