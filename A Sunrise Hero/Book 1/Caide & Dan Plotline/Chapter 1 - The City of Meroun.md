@@ -1,4 +1,4 @@
-The city of Meroun will starve to death, and no one else dared admit it. Dan had been the only one to see the signs, let alone come to the same conclusion. No one. Not even his father, who was supposed to be on his side. Not even Caide, who was paid to be his friend. Especially not Minister Sung, who eyed him with well-hidden contempt.
+The city of Meroun will starve to death, and no one else dared admit it. Dan had been the only one to see the signs, let alone come to the same conclusion. No one. Not even his father, who was supposed to be on his side. Not even Caide, who was paid to be his friend. Especially not Minister Sung, who now eyed him with well-hidden contempt.
 
 "Thank you for coming all this way, young master. I trust the roads have been kind?"
 
@@ -10,11 +10,11 @@ The minister spoke inane pleasantries, but Dan just heard *move it along, fat bo
 
 "With all due respect, Minister. I am his adopted son." All but in paper.
 
-"Then my apologies to your father, and to you, for missing the adoption ceremony. Please, you must help me seek forgivenes."
+"Then my apologies to your father, and to you, for my absence at the adoption ceremony."
 
 Dan thinks about what these underhanded insults truly meant. He's not insulted.
 
-"Yes, your excellency, I must admit that you're right. I am not his son yet. I think he's hoping to get some unfortunate young woman with child, so she can pop out a legitimate heir. I wish him the best, and I honestly do hope it happens. But in the mean time, I'm afraid he's stuck with me."
+"Yes, your excellency, I must admit that you're right. I am not his son yet. I think he's hoping to get some unfortunate young woman with child, so she can pop out a legitimate heir. Something you were recently successful with, if I may be so bold. Congratulations, Minister.”
 
 "Kindly state your purpose, young steward, I'm sure there is a higher reason for your visit. You did not come here to argue succession."
 
@@ -28,7 +28,7 @@ Dan thinks about what these underhanded insults truly meant. He's not insulted.
 
 "The one on <blank>, <blank>, <blank> and <blank>."
 
-"That's almost all of them. May I ask for what purpose?"
+"That's all of them. May I ask for what purpose?"
 
 "I'm afraid not, your excellency," Dan said with bow.
 
