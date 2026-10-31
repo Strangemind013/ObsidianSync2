@@ -284,7 +284,7 @@ The Duke of Talins himself sat crabbed over a desk, wielding pen rather than a s
 
 "If it isn't the Butcher of Caprile," murmured Ario, "and her little Benna too."
 
-"Your Highness. You look well." MOnza thought he looked an indolent cock, but kept it to herself.
+"Your Highness. You look well." Monza thought he looked an indolent cock, but kept it to herself.
 
 "You too, as ever. If all soldiers looked as you did, I might even be tempted to go on campaign myself. A new bauble?" Ario waved his own jewel-encrusted hand limply towards the ruby on Monza's finger.
 
