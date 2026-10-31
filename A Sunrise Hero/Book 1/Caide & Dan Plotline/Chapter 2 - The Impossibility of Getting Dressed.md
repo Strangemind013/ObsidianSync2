@@ -1,8 +1,8 @@
-Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever? He’d been warned long ago that ending lives takes away from your sleep, but of course he didn’t listen. Now he didn’t even have enough for a lengthy wink.
+Like every other morning, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever? He’d been warned long ago that ending lives took away from your sleep, but of course he didn’t listen. Now he didn’t even have enough for a lengthy wink.
 
-Every shirt he owned got two sleeves. He only needed one, and the other hung floppy at his side. He pushed a narrow bag of sand into the empty sleeve, held it fast, and worked the cloth around with his fingers to tie a clumsy knot. It helped with his balance.
+Every shirt he owned had two sleeves. He only needed one, while the other hung floppy at his side. He pushed a narrow bag of sand into the empty sleeve, held it fast, and worked the cloth around with his fingers and tied a clumsy knot. He shrugged the bag in place and it sat low on the tied sleeve, where an elbow would’ve been. It helped with his balance.
 
-Putting on trousers consists of a messy tangle of legs and fabric. He tried doing it seated, but the problem was made obvious once he worked up his thighs. Standing up undid all his progress. He considered wearing one of those work robes that merchants wore, but even that presented its own series of problems.
+Putting on trousers meant swathing through a tangle of legs and fabric. He tried doing it seated, but the problem was made obvious once he worked up his thighs, but standing up undid all his progress. He considered wearing one of those work robes that merchants wore, but even that presented its own series of problems.
 
 Belts, boots, and then the straps that held his sword (a prop). Each their own struggle. If only he could learn to bend his fingers backwards, that might’ve helped.
 
