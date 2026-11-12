@@ -24,3 +24,9 @@ Funny how being poor works. Quite similar to being infected by a putrid disease.
 “Lend me the money. Either I pay you back somehow, or I spend the rest of my life doing so. I don’t think I can beg, Dan. This is as close as I could get.”
 
 Dan puffed out his cheeks and let out a long breath. Sweat ran down the side of his face, more than usual, and his collar was soaked through. 
+
+
+
+
+
+[This chapter comes to a head when Dan refuses Caide the loan, and they’re ambushed by some assailants. It is revealed that Caide had an arrangement with them. However, as a token of friendship, Caide gives Dan a choice – agree to loan him the money and Caide will get them out of this sticky situation.]
