@@ -31,4 +31,5 @@ Dan puffed out his cheeks and let out a long breath. Sweat ran down the side of 
 
 [This chapter comes to a head when Dan refuses Caide the loan, and they’re ambushed by some assailants. It is revealed that Caide had an arrangement with them. However, as a token of friendship, Caide gives Dan a choice – agree to loan him the money and Caide will get them out of this sticky situation.
 
-[Caide is forced to use the Words, and only just beats them by the skin of his teeth, but he’s pretty pleased with himself.]
+[Caide is forced to use the Words, and only just beats them by the skin of his teeth, but he’s pretty pleased with himself. Dan sees him in a new light.]
+
