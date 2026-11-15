@@ -1,4 +1,5 @@
 > Dan’s POV
+> 
 > **Needs:**
 > - Dan’s fall from grace
 > - Set up his conflict with The Cardinal
