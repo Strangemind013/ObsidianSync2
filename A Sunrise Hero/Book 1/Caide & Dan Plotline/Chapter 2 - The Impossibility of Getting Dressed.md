@@ -20,16 +20,16 @@ Nothing more disgusting than asking a friend for money. A different, specific ki
 Funny how being poor works. Quite similar to being infected by a putrid disease. Easier to blame someone for it, to think of it as a lack of wits, effort, or perseverance. If it was so easy, then no one would be poor, no? And yet Caide was poor, for all the might he possessed in his youth. He’d been focused on the wrong things. Honor, power, skill with the sword, sagecraft… He should’ve been amassing wealth instead. He should’ve turned to brigandry, his money problems would be solved in a few moons. But his last shreds of honor, damned honor, prevented him from doing so. It would’ve been so easy… But if he learned anything from his three decades of existence, it was that he wasn’t a man blessed enough to have it easy. 
 
 
-
 “Lend me the money. Either I pay you back somehow, or I spend the rest of my life doing so. I don’t think I can beg, Dan. This is as close as I could get.”
+
 
 Dan puffed out his cheeks and let out a long breath. Sweat ran down the side of his face, more than usual, and his collar was soaked through. 
 
 
+[This chapter comes to a head when Dan refuses Caide the loan, and they’re ambushed by some assailants. It is revealed that Caide had an arrangement with them. However, as a token of friendship, Caide gives Dan a choice – agree to loan him the money and Caide will get them out of this sticky situation. (The fight is half what the Sunriser would do, and half what Caide can actually do right now.)]
 
-
-
-[This chapter comes to a head when Dan refuses Caide the loan, and they’re ambushed by some assailants. It is revealed that Caide had an arrangement with them. However, as a token of friendship, Caide gives Dan a choice – agree to loan him the money and Caide will get them out of this sticky situation.
 
 [Caide is forced to use the Words, and only just beats them by the skin of his teeth, but he’s pretty pleased with himself. Dan sees him in a new light.]
 
+
+“Fine,” Dan said. “Get the arm. If this is how you fight one-handed… With both your hands we will conquer this city.”
