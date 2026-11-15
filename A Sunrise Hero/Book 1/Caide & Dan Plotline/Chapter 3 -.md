@@ -1,1 +1,1 @@
-When Father summoned him, along with 
+Dan knew something was wrong. Father never summoned all the capos in such short notice.
