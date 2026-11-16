@@ -5,7 +5,7 @@
 > - Set up his conflict with The Cardinal
 >   
 > **What Happens?**
-> - Chapter opens as Dan makes his way to the meeting the minister called.
+> - Chapter opens as Dan makes his way to the meeting his father, (the minister) called.
 > - 
 
 
