@@ -5,7 +5,8 @@
 > - Set up his conflict with The Cardinal
 >   
 > **What Happens?**
-> - Chapter opens at 
+> - Chapter opens as Dan makes his way to the meeting the minister called.
+> - 
 
 
 Dan knew something was wrong. Father never summoned all the capos in such short notice.
