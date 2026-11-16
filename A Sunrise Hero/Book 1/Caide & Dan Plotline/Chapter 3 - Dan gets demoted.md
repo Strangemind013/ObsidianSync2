@@ -3,6 +3,9 @@
 > **Needs:**
 > - Dan’s fall from grace
 > - Set up his conflict with The Cardinal
+>   
+> **What Happens?**
+> - Chapter opens at 
 
 
 Dan knew something was wrong. Father never summoned all the capos in such short notice.
