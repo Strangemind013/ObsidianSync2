@@ -9,6 +9,8 @@
 > - Somewhere in here, he thinks about his princess
 > - Dan comes in with his usual cheerful demeanor, but something’s wrong. Entire staff is there
 > - Dan gets “reassigned” to stopping the summer fires
+> - Meeting ends, Dan stays behind for a one on one chat
+> - Shit’s unfair, but nothing he can do right now
 
 
 Dan knew something was wrong. Father never summoned all the capos in such short notice.
