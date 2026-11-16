@@ -6,8 +6,8 @@
 >   
 > **What Happens?**
 > - Chapter opens as Dan makes his way to the meeting his father, (the minister) called.
-> - Dan comes in with his usual cheerful demeanor, but something’s wrong
-> - 
+> - Dan comes in with his usual cheerful demeanor, but something’s wrong. Entire staff is there
+> - Dan gets “reassigned” to stopping the summer fires
 
 
 Dan knew something was wrong. Father never summoned all the capos in such short notice.
