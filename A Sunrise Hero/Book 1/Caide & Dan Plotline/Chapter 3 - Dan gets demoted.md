@@ -6,6 +6,7 @@
 >   
 > **What Happens?**
 > - Chapter opens as Dan makes his way to the meeting his father, (the minister) called.
+> - Dan comes in with his usual cheerful demeanor, but something’s wrong
 > - 
 
 
