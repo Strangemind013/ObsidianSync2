@@ -11,7 +11,7 @@
 > - “In my experience, a man who can’t be bothered with worldly pleasures is usually chasing something else. Honor, glory, power. Some intangible thing that makes him feel better than everyone else.” 
 >   “Oh, you mean like me?”
 >   “You’re in a brothel, my prince.”
->   “What? They serve great tea.”
+>   “What? They serve great tea, and have the exclusive privilege of having you here.”
 > - *Scene break*
 > - (Caide hands him the prison dossiers)
 > - Dan tries to convince Caide to lead his crew of firestoppers
