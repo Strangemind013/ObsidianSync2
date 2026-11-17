@@ -16,4 +16,4 @@
 > - (Caide hands him the prison dossiers)
 > - Dan tries to convince Caide to lead his crew of firestoppers
 > - “It’s not enough that you do it. We’re going against the gods here, so you’ll have to be more involved than that. It’s like one of your theater epics, no? Man goes against the gods to save the common folk. Think about it. We’ll be heroes.”
->   *Heroes.* The word made him twitch. But there, in his eyes, was the makings of a fire. Not a blaze, surely. Embers, then. A little spark. There’s a good bit of irony in there, given what they’d need to do. 
+>   *Heroes.* The word made him twitch. But there, in his eyes, was the makings of a fire. Not a blaze, surely. Embers, then. A little spark. But that should be enough for now.
