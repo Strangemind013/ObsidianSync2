@@ -7,5 +7,5 @@
 > 
 > **What Happens?**
 > - Dan and princess discuss his assets, or lack thereof
-> - Dan arranges a courtesan for the warden
+> - Dan arranges a courtesan for the warden as thanks
 > - 
