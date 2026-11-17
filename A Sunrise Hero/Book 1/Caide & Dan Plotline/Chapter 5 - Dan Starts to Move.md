@@ -12,3 +12,7 @@
 >   “Oh, you mean like me?”
 >   “You’re in a brothel, my prince.”
 >   “What? They serve great tea.”
+> - *Scene break*
+> - Dan tries to convince Caide to lead his crew of firestoppers
+> - (Caide hands him the prison dossiers)
+> - 
