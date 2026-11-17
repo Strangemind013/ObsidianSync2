@@ -1,3 +1,5 @@
+> - Caide reveals himself as the sunriser
+
 Like every other dawn, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever? He’d been warned long ago that ending lives took away from your sleep, but of course he didn’t listen. Now he didn’t even have enough for a lengthy wink.
 
 Every shirt he owned had two sleeves. He only needed one, while the other hung floppy at his side. He pushed a narrow bag of sand into the empty sleeve, held it fast, and worked the cloth around with his fingers and tied a clumsy knot. He shrugged the bag in place and it sat low on the tied sleeve, where an elbow would’ve been. It helped with his balance.
