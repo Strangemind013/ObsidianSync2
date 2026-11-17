@@ -8,5 +8,5 @@
 > - Hira dies
 > - “Oh good, more despair. Let’s add it to the others.” as Caide mourns Hira
 > - Grin swats Caide away. “You’ve never been smaller than you are now. An ant. Why would you choose this? ”
-> - “What is it like, mortal, to reach the end of your existence? To know that the world goes on without you in it? Are you afraid?” “Shut up and do it. I’m done being afraid.” “Good. Now live the rest of your pathetically short life.”
+> - “What is it like, mortal, to reach the end of your existence? To know that the world goes on without you in it? Are you afraid?” “Shut up and do it. I’m done being afraid.” “Good. Now live the rest of your pathetically short life. Struggle. Fight. Die.”
 
