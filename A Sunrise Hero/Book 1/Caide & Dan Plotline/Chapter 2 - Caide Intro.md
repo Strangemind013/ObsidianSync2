@@ -1,4 +1,5 @@
-> - Caide reveals himself as the sunriser
+> - Impress upon the reader that Sages are now extinct 
+> - Caide reveals himself as the Sunriser
 
 Like every other dawn, Caide stared down the insurmountable challenge of getting dressed with one arm. Didn’t help that he barely got any sleep. Then again, when had he ever? He’d been warned long ago that ending lives took away from your sleep, but of course he didn’t listen. Now he didn’t even have enough for a lengthy wink.
 
