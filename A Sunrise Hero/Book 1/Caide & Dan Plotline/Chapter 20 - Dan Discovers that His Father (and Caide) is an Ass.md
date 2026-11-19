@@ -7,4 +7,5 @@
 >
 > **What happens?**
 >- Caide betrays the smokesons by asking for a large jade instead of pardons
+>- King announces her sister’s engagement to Dan’s father
 >- 
