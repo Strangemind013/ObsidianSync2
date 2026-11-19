@@ -3,7 +3,7 @@
 > - Hint that Sages are extinct
 > -
 > **What happens?**
-> - 
+> - Strongarming minister of harvest about unauthorized granaries
 > - Scene at Snowdrop Garden
 
 The city of Meroun will starve to death, and no one else dared admit it. Dan had been the only one to see the signs, let alone come to the same conclusion. No one. Not even his father, who was supposed to be on his side. Not even Caide, who was paid to be his friend. Especially not Minister Sung, who now eyed him with well-hidden contempt.
