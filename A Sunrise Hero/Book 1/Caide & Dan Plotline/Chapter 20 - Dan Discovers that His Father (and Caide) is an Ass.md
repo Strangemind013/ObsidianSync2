@@ -7,5 +7,5 @@
 >
 > **What happens?**
 >- Caide is forced to choose between the jade and the smokesons’ pardon
->- King announces her sister’s engagement to Dan’s father
+>- King announces her sister’s engagement to Dan’s father as reward for bringing in grain and ‘saving the city (just nobles)’
 >- 
