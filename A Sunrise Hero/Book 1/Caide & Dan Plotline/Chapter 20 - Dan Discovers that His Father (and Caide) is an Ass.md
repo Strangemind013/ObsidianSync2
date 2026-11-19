@@ -6,6 +6,6 @@
 >- Revelation of Grin’s Cost
 >
 > **What happens?**
->- Caide betrays the smokesons by asking for a large jade instead of pardons
+>- Caide is forced to choose between the jade and the smokesons’ pardon
 >- King announces her sister’s engagement to Dan’s father
 >- 
