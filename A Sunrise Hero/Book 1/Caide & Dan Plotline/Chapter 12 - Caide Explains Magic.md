@@ -1,5 +1,7 @@
-> Caide POV
-> Needs:
+> Smokesone / Dan POV
+> **Needs:**
+> **What happens?**
+> - 
 
 Goals:
 - Cardinal subplot here [TK]
