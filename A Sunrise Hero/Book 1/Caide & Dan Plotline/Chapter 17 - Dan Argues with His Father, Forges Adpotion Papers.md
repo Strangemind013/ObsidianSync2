@@ -4,6 +4,8 @@
 > - Reveal that Dan’s woman is royalty
 > - Dan to start fighting back (against his father)
 > - Show the worsening state of the city as the fires continue.
+> - Could add another Dan scene here, or something more
+> 
 > **What happens?**
 > - Dan’s father meets the young king’s older sister, recognizes her as the girl from Snowdrop Garden
 > - Minister implies that Dan’s secret is safe with him.
