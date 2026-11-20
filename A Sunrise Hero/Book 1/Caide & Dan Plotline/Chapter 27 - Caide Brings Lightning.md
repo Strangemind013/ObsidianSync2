@@ -10,5 +10,5 @@
 > - Caide raises his hand. “Sol!” Puts his fist on his shoulder. (Means I’m desperate. Have the others retreat.)
 > - Buffs himself with Judgment
 > - Runs to the Faceless and brings down lightning. *Do you know why they call me the Sunriser?*
-> - Seyla blasts the Faceless
+> - Seyla blasts the Faceless, it dies
 > - More faceless arrive
