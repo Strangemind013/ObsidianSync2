@@ -1,4 +1,4 @@
->
+> Caide and Duck POV
  
 Goals:
 - Force Caide to use Heraldries to save Duck
