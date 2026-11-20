@@ -1,3 +1,6 @@
+> Caide POV
+> Needs:
+
 Goals:
 - Cardinal subplot here [TK]
 - React to Grin's reveal
