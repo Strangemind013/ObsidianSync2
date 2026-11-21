@@ -4,6 +4,8 @@
 
 **DESIGNING PRINCIPLE:**  The story of a man refusing to turn evil while holding on to power in a cutthroat environment.
 
+**DRAMATIC TENSION:** His gratitude towards his adoptive father blinds him to his 
+
 **DAN'S ARC:** Delusion > Awakening > Responsibility
 
 **Ghost:** As an orphan, he equates his worth to his adoptive father’s approval.
