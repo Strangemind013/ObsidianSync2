@@ -4,6 +4,8 @@
 
 **DESIGNING PRINCIPLE:**  The story of how a man deals with the fallout of his heroism a decade after the war has been won.
 
+**DRAMATIC TENSION:** Caide’s need to prove himself gets in the way of his cooperation with others.
+
 **CAIDE'S ARC:** Self-Doubt > Heroism > Acceptance
 
 **Ghost:** His past as a war hero and being cast aside after his injury.
