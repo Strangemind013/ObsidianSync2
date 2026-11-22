@@ -10,7 +10,9 @@
 > 
 > **What Happens?**
 > - “So we destroy houses?”
-> - “I will inherit this soon.” “Your father banished you.” “Ah, well. My father has a flair for the dramatic. Like [religious figure], this is simply a trial I must pass.”
+> - Dan negotiates with a religious figure. With Caide’s idea, they 
+> - Dan negotiates with a prominent merchant. He threatens to expose inconsistencies in his books. They go back and forth, him countering that Dan’s signature is right there.
+> - “I will inherit this soon.” “Your father banished you.” “Ah, well. My father has a flair for the dramatic. Like [legendary figure], this is simply a trial I must pass.”
 > - “Besides, this is all in Minister’s name anyway. You are simply providing a generous donation to our cause. A patriot–no, a *hero.”
 > - The merchant offers building materials as compensation; Dan points out that a family cannot sleep in a promise of timber. He insists that immediate accommodation be included.
 >  - 
