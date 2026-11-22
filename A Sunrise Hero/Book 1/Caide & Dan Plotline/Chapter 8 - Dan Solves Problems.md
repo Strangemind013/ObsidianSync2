@@ -10,8 +10,10 @@
 > 
 > **What Happens?**
 > - “So we destroy houses?”
-> - “Your fat”
->  
+> - “I will inherit this soon.” “Your father banished you.” “Ah, well. My father has a flair for the dramatic. Like [religious figure], this is simply a trial I must pass.”
+> - “Besides, this is all in Minister’s name anyway. You are simply providing a generous donation to our cause. A patriot–no, a *hero.”
+> - The merchant offers building materials as compensation; Dan points out that a family cannot sleep in a promise of timber. He insists that immediate accommodation be included.
+>  - 
 
 
 
