@@ -9,9 +9,8 @@
 > - Compensation comes in the form of building supplies and labor (voucher)
 > 
 > **What Happens?**
-> - Dan arrives at his newly-constructed granaries to find them confiscated by his Father
-> -  Sees his father at Snowdrop Garden with princess
-> - 
+> - “So we destroy houses?”
+> - “Your fat”
 >  
 
 
