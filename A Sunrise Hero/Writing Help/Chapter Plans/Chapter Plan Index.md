@@ -4,7 +4,7 @@ These 32 working plans cover the prologue, Chapters 1–30, and epilogue in **Ca
 
 Each plan links back to its source, follows the same template, and finishes with open decisions. Established events are stated directly. New connective actions, uncertain POV assignments, and undeveloped endings are labeled as proposals. A checked drafting box means the working plan supplies an answer; it does not turn a proposed answer into confirmed canon.
 
-## Chapter plans
+### Chapter plans
 
 | Chapter | Working plan | POV | Provisional words |
 | --- | --- | --- | ---: |
@@ -41,7 +41,7 @@ Each plan links back to its source, follows the same template, and finishes with
 | 30 | [[30 - The Minister He Chooses to Be]] | Dan | 2,800 |
 | Epilogue | [[31 - Epilogue - Miero Wakes Up]] | Miero (provisional) | 1,000 |
 
-## Decisions carried through
+### Decisions carried through
 
 - Cardinale is **Minister of Works**, raised to prominence through Dan's work. Dan's grain purchase is privately funded and sincerely intended to protect Meroun and win credit for his father. The proposed accusation is exceeding delegated authority, not stealing public funds.
 - Dan's pay and legitimate private earnings explain his savings. Grain and Caide's payment leave him cash-poor; demotion removes income and privileges without magically erasing his grain asset.
@@ -58,7 +58,7 @@ Each plan links back to its source, follows the same template, and finishes with
 - Caide's apology concerns his priorities and the risk he imposed even though he eventually secured pardons. Wanting a prosthesis is not itself his moral failure.
 - Dan's appointment is a political success with unresolved moral costs. It does not retrospectively justify trading Tahan's death for power.
 
-## Tentative prisoner POV pass
+### Tentative prisoner POV pass
 
 To try your wish for each prisoner to have a chapter without expanding the chapter count, this version proposes the following distribution:
 
@@ -76,7 +76,7 @@ Sweet-tooth and Harum follow the established direction. The others are reviewabl
 
 Sol keeps Chapter 15 so the new alliance receives his perspective. Caide keeps Chapter 19 so the mixture of gratitude and wounded pride can motivate his jade choice without relying entirely on readers guessing from outside.
 
-## Resolve before drafting the affected chapters
+### Resolve before drafting the affected chapters
 
 1. **Introduction and demotion — Chapters 1–3:** choose the exact storage/clearance problem and the unauthorized commitment Cardinale can punish. These should be the same transaction viewed differently.
 2. **Firebreak cost — Chapters 8–10:** choose the merchant leverage, the coat material, Duck's injury, and the mechanism for claiming shelter and rebuilding help.
@@ -89,7 +89,7 @@ Sol keeps Chapter 15 so the new alliance receives his perspective. Caide keeps C
 9. **Larger ending — Chapter 28 and epilogue:** define the dragon's role, Grin's immediate fate, the additional Faceless, and the result of Hira's experiment. These notes intentionally remain incomplete rather than inventing those answers.
 10. **Aftermath — Chapters 29–30:** decide what the crew, princess, and Sol learn about the staged rescue and assassination bargain. Establish who appoints Dan to Works.
 
-## Word-count check
+### Word-count check
 
 The provisional budgets total **95,400 words** for this folder. Against a **120,000-word whole-book target**, that leaves **24,600 words** for chapters belonging only to other plotlines.
 
@@ -97,11 +97,10 @@ That is a planning estimate, not a recommended final allocation. Chapters 22 and
 
 The first merge candidates are Chapters 10–11 (brief crew respite into Grin's confrontation), Chapters 13–14 (request and duel), Chapters 23–24 (failed rescue into the arm choice), and Chapters 26–27 (one continuous finishing maneuver). Each merge may cost a POV opportunity or a useful rhythm change; make it only after choosing the main chapter purpose.
 
-## Suggested starting point
+### Suggested starting point
 
 Start with [[01 - Grain and Good Intentions]], [[03 - An Impossible Assignment]], and [[08 - Permission to Break Houses]]. Together they test the central contrast: Dan initially gets things done using his father's delegated authority, loses that authority, and then proves he can still organize people and resources.
 
 For the ending, resolve the numbered dependencies above before treating the thin original notes as draft-ready chapters. The plans for the dragon and Miero's awakening are deliberately structural placeholders.
 
 Reference: [[Chapter Planning Guide]] · Blank form: [[Chapter Template]]
-
