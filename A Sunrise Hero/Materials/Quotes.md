@@ -64,3 +64,4 @@
 - Do you think your ancestors are proud of who you’ve become? No matter, soon enough you can explain your bad choices to them
 - “Treason?” Dan chuckled. “Honestly, there’s something to be said about how you always jump to the worst conclusions. You should look into that, you know? Reflect.”
 - “That’s the thing about nobility. You go your entire life being told that you’re special, chosen by heaven. That you’re better, more powerful. And in time you grow to believe it. I will relieve you of these delusions.”
+- [About money] Of course you don’t. You’ve been wealthy all your life. Haven’t had the pleasure myself. Easy to forget about air until someone gets their hands around your throat.
