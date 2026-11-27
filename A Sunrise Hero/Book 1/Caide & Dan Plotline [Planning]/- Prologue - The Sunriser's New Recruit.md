@@ -1,8 +1,8 @@
 **Chapter number and working title:** Prologue - The Sunriser's New Recruit  
 **POV:**  
-**Time and location:**  
-**Essential characters:**  
-**Approximate word budget:**
+**Time and location:**  Evening, somewhere
+**Essential characters:**  Recruit, Caide, enemy sage, rest of the Disavowed
+**Approximate word budget:** 2000
 
 #### Purpose
 **Main contribution to the book:** Show Caide, the Sunriser, in his prime
@@ -19,8 +19,8 @@
 
 #### Opposition and tension
 **External resistance:** The hunted sage
-**What the opposing character wants:**  
-**Internal pressure or competing desire:**
+**What the opposing character wants:** To escape
+**Internal pressure or competing desire:** 
 
 #### Causal sequence
 **Starting situation:**  
