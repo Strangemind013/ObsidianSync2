@@ -5,11 +5,11 @@
 **Approximate word budget:** 2000
 
 #### Purpose
-**Main contribution to the book:** Show Caide, the Sunriser, in his prime
+**Main contribution to the book:** Show Caide, the Sunriser, in his prime to highlight his downfall in future chapters. Show the status quo about sages
 **What would be lost if this chapter were removed:** We have no reference point for how much Caide has fallen
 
 #### Character motivation
-**Immediate goal:** Survive his new job
+**Immediate goal:** Locate the hidingurvive his new job
 **Underlying motive:** See if he wants to live as a sage
 **Stakes:** Life and death
 
