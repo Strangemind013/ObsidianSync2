@@ -9,16 +9,16 @@
 **What would be lost if this chapter were removed:** We have no reference point for how much Caide has fallen
 
 #### Character motivation
-**Immediate goal:** Survive his 
-**Underlying motive:**  
-**Stakes:**
+**Immediate goal:** Survive his new job
+**Underlying motive:** See if he wants to live as a sage
+**Stakes:** Life and death
 
 #### Dramatic question
-**Question driving the chapter:**  
-**Answer or meaningful progress provided:**
+**Question driving the chapter:** Will the new recruit survive the night? Will he decide to live the life of a sage?
+**Answer or meaningful progress provided:** Yes, he survives. No, he resigns immediately.
 
 #### Opposition and tension
-**External resistance:**  
+**External resistance:** The hunted sage
 **What the opposing character wants:**  
 **Internal pressure or competing desire:**
 
