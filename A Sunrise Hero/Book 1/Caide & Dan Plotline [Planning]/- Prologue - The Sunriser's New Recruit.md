@@ -5,11 +5,11 @@
 **Approximate word budget:**
 
 #### Purpose
-**Main contribution to the book:**  
-**What would be lost if this chapter were removed:**
+**Main contribution to the book:** Show Caide, the Sunriser, in his prime
+**What would be lost if this chapter were removed:** We have no reference point for how much Caide has fallen
 
 #### Character motivation
-**Immediate goal:**  
+**Immediate goal:** Survive his 
 **Underlying motive:**  
 **Stakes:**
 
