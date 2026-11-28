@@ -9,7 +9,7 @@
 **What would be lost if this chapter were removed:** We have no reference point for how much Caide has fallen
 
 #### Character motivation
-**Immediate goal:** Locate the hidingurvive his new job
+**Immediate goal:** Locate the hiding sage and survive his new job
 **Underlying motive:** See if he wants to live as a sage
 **Stakes:** Life and death
 
@@ -19,12 +19,12 @@
 
 #### Opposition and tension
 **External resistance:** The hunted sage
-**What the opposing character wants:** To escape
-**Internal pressure or competing desire:** 
+**What the opposing character wants:** To escape and survive
+**Internal pressure or competing desire:** He isn’t an accomplished sage yet, and has little experience working in a unit
 
 #### Causal sequence
-**Starting situation:**  
-**Trigger:**  
+**Starting situation:**  The recruit is forcibly assigned to Caide’s unit and is part of a mission
+**Trigger:**  They arrive at the 
 **First approach:**  
 **Complication:**  
 **Response:**  
